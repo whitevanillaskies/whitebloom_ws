@@ -1,0 +1,892 @@
+{
+  "version": 3,
+  "name": "Whitebloom Basics",
+  "brief": "Describing the core concepts of WHITEBLOOM as a spec and philosophy. It's not for app-specific features.",
+  "nodes": [
+    {
+      "id": "c30d5c3e-803c-4576-8f13-e3380f19f2dd",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 442.5465483954478,
+        "y": 53.4411432033511
+      },
+      "size": {
+        "w": 192,
+        "h": 58
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"WHITEBLOOM\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-12T19:54:59.229Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T19:56:27.125Z",
+      "updatedBy": "anon",
+      "plain": "WHITEBLOOM"
+    },
+    {
+      "id": "a6719f97-c7d9-40d0-8a28-13a1ba200939",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 410.2132150621144,
+        "y": 502.9411432033511
+      },
+      "size": {
+        "w": 261,
+        "h": 58
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Symbiotic Interface\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-12T19:55:37.019Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T19:56:20.399Z",
+      "updatedBy": "anon",
+      "plain": "Symbiotic Interface"
+    },
+    {
+      "id": "76e9797b-2adb-48e5-bee9-e91f36e97a5f",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 118.0424055063385,
+        "y": 503.05390493500886
+      },
+      "size": {
+        "w": 107,
+        "h": 58
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"People\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-12T19:55:54.917Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T20:07:51.240Z",
+      "updatedBy": "anon",
+      "plain": "People"
+    },
+    {
+      "id": "c96135b2-1574-4d73-99fd-fcf833e44b54",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 836.8798817287811,
+        "y": 502.9411432033511
+      },
+      "size": {
+        "w": 110,
+        "h": 58
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Agents\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-12T19:56:03.849Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T19:56:14.322Z",
+      "updatedBy": "anon",
+      "plain": "Agents"
+    },
+    {
+      "id": "5db10e46-e174-4a22-8be4-27db05d4881d",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1360.879881728781,
+        "y": 16.27447653668446
+      },
+      "size": {
+        "w": 439,
+        "h": 132
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"OPEN WHITEBLOOM\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Open Whitebloom is the spec that defines the Core Data model, how Agents interact with it in a secure way, and Domain Bindings and Extensions for people to interact with both the data and the agents.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 439,
+      "created": "2026-04-12T19:56:44.558Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T19:59:42.137Z",
+      "updatedBy": "anon",
+      "plain": "OPEN WHITEBLOOM\nOpen Whitebloom is the spec that defines the Core Data model, how Agents interact with it in a secure way, and Domain Bindings and Extensions for people to interact with both the data and the agents."
+    },
+    {
+      "id": "50041a65-14a7-4a31-b85d-925c1672928c",
+      "kind": "cluster",
+      "type": null,
+      "label": "Open Whitebloom",
+      "children": [
+        "5db10e46-e174-4a22-8be4-27db05d4881d",
+        "0a7e0b71-adbc-4853-a6a1-76f02745dda9",
+        "90a3366f-79a2-4a9c-b600-48c4a44ba142",
+        "05b35d99-5773-4571-9620-7f928361b3aa",
+        "5e20fd4c-f1ae-4989-917a-6222546f831d",
+        "fe8dea69-42c0-4575-8ea7-226355d3f151",
+        "8ad6156f-4135-4cd5-b2c9-9d1476c14d12"
+      ],
+      "color": "blue",
+      "autofitToContents": false,
+      "position": {
+        "x": 1312.9999999999998,
+        "y": -31.666666666666714
+      },
+      "size": {
+        "w": 1372,
+        "h": 438
+      },
+      "created": "2026-04-12T19:58:22.897Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T20:19:48.367Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "0a7e0b71-adbc-4853-a6a1-76f02745dda9",
+      "kind": "bud",
+      "type": null,
+      "position": {
+        "x": 1913.251508861442,
+        "y": 50.237313823418376
+      },
+      "size": {
+        "w": 88,
+        "h": 88
+      },
+      "resource": "file:///D:/slvtte/prj/WHITEBLOOM/code/whitebloom/docs/open_whitebloom.md",
+      "created": "2026-04-12T19:59:34.128Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T19:59:46.514Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "90a3366f-79a2-4a9c-b600-48c4a44ba142",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1898.5848421947755,
+        "y": 12.903980490085093
+      },
+      "size": {
+        "w": 112,
+        "h": 39
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Current Spec\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-12T19:59:48.378Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T19:59:58.152Z",
+      "updatedBy": "anon",
+      "plain": "Current Spec"
+    },
+    {
+      "id": "05b35d99-5773-4571-9620-7f928361b3aa",
+      "kind": "leaf",
+      "type": "shape",
+      "position": {
+        "x": 1417.2174113729936,
+        "y": 238.48575746004366
+      },
+      "size": {
+        "w": 131,
+        "h": 66
+      },
+      "shape": {
+        "preset": "rectangle",
+        "style": {
+          "stroke": {
+            "width": 1.5,
+            "color": {
+              "kind": "token",
+              "value": "foreground"
+            }
+          },
+          "fill": {
+            "color": {
+              "kind": "custom",
+              "value": "transparent"
+            }
+          }
+        }
+      },
+      "created": "2026-04-12T20:00:12.821Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:08:48.037Z",
+      "updatedBy": "anon",
+      "label": "L1: Core Data"
+    },
+    {
+      "id": "5e20fd4c-f1ae-4989-917a-6222546f831d",
+      "kind": "leaf",
+      "type": "shape",
+      "position": {
+        "x": 1655.3023010697018,
+        "y": 237.17039243837982
+      },
+      "size": {
+        "w": 139,
+        "h": 67
+      },
+      "shape": {
+        "preset": "rectangle",
+        "style": {
+          "stroke": {
+            "width": 1.5,
+            "color": {
+              "kind": "token",
+              "value": "foreground"
+            }
+          },
+          "fill": {
+            "color": {
+              "kind": "custom",
+              "value": "transparent"
+            }
+          }
+        }
+      },
+      "created": "2026-04-12T20:00:16.660Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T20:19:24.800Z",
+      "updatedBy": "anon",
+      "label": "L2: HEP Layer"
+    },
+    {
+      "id": "fe8dea69-42c0-4575-8ea7-226355d3f151",
+      "kind": "leaf",
+      "type": "shape",
+      "position": {
+        "x": 1886.4132236664695,
+        "y": 237.55763070672208
+      },
+      "size": {
+        "w": 165,
+        "h": 66
+      },
+      "shape": {
+        "preset": "rectangle",
+        "style": {
+          "stroke": {
+            "width": 1.5,
+            "color": {
+              "kind": "token",
+              "value": "foreground"
+            }
+          },
+          "fill": {
+            "color": {
+              "kind": "custom",
+              "value": "transparent"
+            }
+          }
+        }
+      },
+      "created": "2026-04-12T20:00:20.409Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:08:46.806Z",
+      "updatedBy": "anon",
+      "label": "L3: Domain Bindings"
+    },
+    {
+      "id": "4f76ed8f-124a-47ed-99d4-87c13a838c98",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 601.3886845940367,
+        "y": 585.8433316920028
+      },
+      "size": {
+        "w": 297,
+        "h": 248
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The symbiotic interface is how people interact with data together with agents.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The interface exists at two layers:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"HEP Layer (CLIs and such tools)\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"User Domains (apps)\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":2}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"list\",\"version\":1,\"listType\":\"bullet\",\"start\":1,\"tag\":\"ul\"},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"A person can interact with the knowledge base either by giving commands to an agent via a HEP layer tool such as OpenClaw, by interacting with the agent through the app, or by using the app.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 297,
+      "created": "2026-04-12T20:01:43.047Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T20:32:55.607Z",
+      "updatedBy": "anon",
+      "plain": "The symbiotic interface is how people interact with data together with agents.\nThe interface exists at two layers:\nHEP Layer (CLIs and such tools)\nUser Domains (apps)\nA person can interact with the knowledge base either by giving commands to an agent via a HEP layer tool such as OpenClaw, by interacting with the agent through the app, or by using the app."
+    },
+    {
+      "id": "ff17294d-1304-4d27-860f-c4ecb46372ce",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": -446.064977771151,
+        "y": -113.2407691959753
+      },
+      "size": {
+        "w": 357,
+        "h": 393
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Terminology\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Agent: an LLM model equipped with the tools to operate over some data. Not the raw LLM model itself.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Core Data: the files that make up a knowledge base, and their structure to be understood by HEP.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":2},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Domain Binding or Extension: an app that allows people to interact with the entire system via a UI. If you're reading this as a person, you're most likely viewing this whiteboard via such a domain extension, for example the official desktop app.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":3},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"HEP layer: the intermediate layer that handles both user commands via UI internals and agent orders via AI skills and tools\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":4},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Material: an resource that can be treated as a unit. It can be a file, a whiteboard, a URL.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":5},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Knowledge Base: data, structured in such a way that it can be interpreted as knowledge.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":6}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"list\",\"version\":1,\"listType\":\"bullet\",\"start\":1,\"tag\":\"ul\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 357,
+      "created": "2026-04-12T20:05:05.934Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:02:56.874Z",
+      "updatedBy": "anon",
+      "plain": "Terminology\nAgent: an LLM model equipped with the tools to operate over some data. Not the raw LLM model itself.\nCore Data: the files that make up a knowledge base, and their structure to be understood by HEP.\nDomain Binding or Extension: an app that allows people to interact with the entire system via a UI. If you're reading this as a person, you're most likely viewing this whiteboard via such a domain extension, for example the official desktop app.\nHEP layer: the intermediate layer that handles both user commands via UI internals and agent orders via AI skills and tools\nMaterial: an resource that can be treated as a unit. It can be a file, a whiteboard, a URL.\nKnowledge Base: data, structured in such a way that it can be interpreted as knowledge."
+    },
+    {
+      "id": "6d6aa7f2-3261-47b2-aea9-6b31b5ffceb1",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1357.7873035571897,
+        "y": 489.7508001455587
+      },
+      "size": {
+        "w": 340,
+        "h": 467
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Safety and Data Sovereignity\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"detail\":0,\"format\":2,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Everything is a file.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":2,\"textStyle\":\"\"},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Whitebloom approaches safety in two ways:\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"children\":[{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Locally owned data\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\", no third party custodians or cloud services required\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":1},{\"children\":[{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Agentic sandboxing\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\".\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":2}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"list\",\"version\":1,\"textFormat\":1,\"listType\":\"bullet\",\"start\":1,\"tag\":\"ul\"},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Local Data\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Local data is owned by you or your business. Nobody will delete your files or hold them for ransom unless you upgrade to a more expensive plan. Depending on how much hardening you need, encryption is also a possibility.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Agentic Sandboxing\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Agents don't operate directly on Core Data. Instead all their actions are routed through the HEP via audited, safe commands. Furthermore, all write commands go through an \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Inbox \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"where people can review them.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 340,
+      "created": "2026-04-12T20:08:15.326Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T20:17:17.843Z",
+      "updatedBy": "anon",
+      "plain": "Safety and Data Sovereignity\nEverything is a file.\nWhitebloom approaches safety in two ways:\nLocally owned data, no third party custodians or cloud services required\nAgentic sandboxing.\nLocal Data\nLocal data is owned by you or your business. Nobody will delete your files or hold them for ransom unless you upgrade to a more expensive plan. Depending on how much hardening you need, encryption is also a possibility.\nAgentic Sandboxing\nAgents don't operate directly on Core Data. Instead all their actions are routed through the HEP via audited, safe commands. Furthermore, all write commands go through an Inbox where people can review them."
+    },
+    {
+      "id": "27bef2ec-8c1e-45da-8f4d-62b0cf387ad1",
+      "kind": "cluster",
+      "type": null,
+      "label": "Safety",
+      "children": [
+        "6d6aa7f2-3261-47b2-aea9-6b31b5ffceb1",
+        "004de27c-6670-4d24-aca6-86c659db1054"
+      ],
+      "color": "blue",
+      "autofitToContents": false,
+      "position": {
+        "x": 1310.0711909872623,
+        "y": 441.7377749482607
+      },
+      "size": {
+        "w": 855,
+        "h": 570
+      },
+      "created": "2026-04-12T20:09:24.580Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T20:17:09.351Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "004de27c-6670-4d24-aca6-86c659db1054",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1782.219263856538,
+        "y": 693.4994513055642
+      },
+      "size": {
+        "w": 336,
+        "h": 266
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Safety Asides\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h3\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"There's no such thing as true security, only degrees of it.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textStyle\":\"color: #6b7280;\",\"textFormat\":0},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"color: #6b7280;\",\"text\":\"External agents can still operate directly on your files, just like they can operate on any file. You can host this on the cloud if you want, and if they restrict access to your account you will lose all data.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"color: #6b7280;\"},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textStyle\":\"color: #6b7280;\",\"textFormat\":0},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"color: #6b7280;\",\"text\":\"What Whitebloom provides is a level of security adequate for most practical purposes, not absolute security.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"color: #6b7280;\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 336,
+      "created": "2026-04-12T20:12:35.528Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T20:17:44.077Z",
+      "updatedBy": "anon",
+      "plain": "Safety Asides\nThere's no such thing as true security, only degrees of it.\nExternal agents can still operate directly on your files, just like they can operate on any file. You can host this on the cloud if you want, and if they restrict access to your account you will lose all data.\nWhat Whitebloom provides is a level of security adequate for most practical purposes, not absolute security."
+    },
+    {
+      "id": "8ad6156f-4135-4cd5-b2c9-9d1476c14d12",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 2268.2011482908733,
+        "y": 143.92126306635092
+      },
+      "size": {
+        "w": 352,
+        "h": 111
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Because Open Whitebloom is a specification, not actual software, different providers can build products for it. If you're viewing this whiteboard on an app, this is just one implementation of the spec as a layer 3 domain binding.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 352,
+      "created": "2026-04-12T20:18:23.714Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T20:19:54.256Z",
+      "updatedBy": "anon",
+      "plain": "Because Open Whitebloom is a specification, not actual software, different providers can build products for it. If you're viewing this whiteboard on an app, this is just one implementation of the spec as a layer 3 domain binding."
+    },
+    {
+      "id": "23bf5d90-0f5b-4ff3-8ee3-daf96e489dfc",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 430.87615008368897,
+        "y": 1196.3638388364811
+      },
+      "size": {
+        "w": 220,
+        "h": 58
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Knowledge Base\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-12T20:24:11.044Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T20:33:15.441Z",
+      "updatedBy": "anon",
+      "plain": "Knowledge Base"
+    },
+    {
+      "id": "df1d9b99-67ed-4f72-a951-72c51107c6f6",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 987.0548425077878,
+        "y": 1196.2097714019962
+      },
+      "size": {
+        "w": 311,
+        "h": 58
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Data + Structure + Logic\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-12T20:24:20.557Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:08:32.946Z",
+      "updatedBy": "anon",
+      "plain": "Data + Structure + Logic"
+    },
+    {
+      "id": "154c4c68-ff7a-4d6b-b8c6-d3fa1ac7b613",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 987.1160338624886,
+        "y": 1235.6272713580702
+      },
+      "size": {
+        "w": 412,
+        "h": 525
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":2,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Mere data does not a knowledge base make.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":2,\"textStyle\":\"\"},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"If you have useful files scattered across multiple directories or stashed in a way that makes easy retrieval or reasoning hard or impossible, then that's something somewhere between a dump and a data lake, depending on how much you're getting paid to maintain it.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"A Knowledge Base requires three things:\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The data itself.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Structure so that software can organize the data. This is generally called metadata.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":2},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Logic, which is human and, in the current age, also agentic work which reveals insights and surfaces knowledge from the data.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":3}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"list\",\"version\":1,\"listType\":\"bullet\",\"start\":1,\"tag\":\"ul\"},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Thus the mystery of Whitebloom begins to reveal itself. It's not a whiteboard, althought it has whiteboard features. It's a system to turn data into knowledge, and spatial reasoning simply happens to be, in my highly opinionated view, one of the best ways to do so.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"However, it's just one way, and it's missing one feature, which is AI. Thus the Core Data model provides structure, and the HEP layer and the Domain Extensions provide the means by which we derive and materialize knowledge from the data.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 412,
+      "created": "2026-04-12T20:25:47.752Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:08:32.946Z",
+      "updatedBy": "anon",
+      "plain": "Mere data does not a knowledge base make.\nIf you have useful files scattered across multiple directories or stashed in a way that makes easy retrieval or reasoning hard or impossible, then that's something somewhere between a dump and a data lake, depending on how much you're getting paid to maintain it.\nA Knowledge Base requires three things:\nThe data itself.\nStructure so that software can organize the data. This is generally called metadata.\nLogic, which is human and, in the current age, also agentic work which reveals insights and surfaces knowledge from the data.\nThus the mystery of Whitebloom begins to reveal itself. It's not a whiteboard, althought it has whiteboard features. It's a system to turn data into knowledge, and spatial reasoning simply happens to be, in my highly opinionated view, one of the best ways to do so.\nHowever, it's just one way, and it's missing one feature, which is AI. Thus the Core Data model provides structure, and the HEP layer and the Domain Extensions provide the means by which we derive and materialize knowledge from the data."
+    },
+    {
+      "id": "da91fcc5-24fc-49dd-8198-b390c596a21b",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": -226.03584237608203,
+        "y": 1148.539263678077
+      },
+      "size": {
+        "w": 355,
+        "h": 153
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Git Friendly\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h3\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Because everything is a file, the knowledge base is very git friendly. Of course we can't make it so that everything is plaintext, we need media like pictures, video, and proprietary formats like PDF, but most native primitives such as text nodes and boards are plaintext.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 355,
+      "created": "2026-04-12T20:35:30.587Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T20:36:58.578Z",
+      "updatedBy": "anon",
+      "plain": "Git Friendly\nBecause everything is a file, the knowledge base is very git friendly. Of course we can't make it so that everything is plaintext, we need media like pictures, video, and proprietary formats like PDF, but most native primitives such as text nodes and boards are plaintext."
+    },
+    {
+      "id": "a9d4a4b2-8811-4b1d-98da-63fe1c5331af",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1508.0026652286872,
+        "y": 1345.1985076463102
+      },
+      "size": {
+        "w": 237,
+        "h": 58
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Spatial Reasoning\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-12T20:54:30.164Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:13:20.103Z",
+      "updatedBy": "anon",
+      "plain": "Spatial Reasoning"
+    },
+    {
+      "id": "04b28373-6525-4ab6-8034-39122acc7c91",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1503.0817382210118,
+        "y": 1210.6537265767333
+      },
+      "size": {
+        "w": 247,
+        "h": 58
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Agentic Reasoning\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-12T20:54:38.968Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:13:54.440Z",
+      "updatedBy": "anon",
+      "plain": "Agentic Reasoning"
+    },
+    {
+      "id": "e12ed10e-184e-42b7-90ce-4f1c876bff80",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1509.230961939047,
+        "y": 1392.1365429619761
+      },
+      "size": {
+        "w": 319,
+        "h": 129
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Agents can also benefit from spatial layout of information. Unassisted AI chats are able to infer relationships between nodes from their spatial layout. The .wb file format encodes the coordinates in plaintext so that agents have direct access to them.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 319,
+      "created": "2026-04-12T20:55:21.024Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:13:20.948Z",
+      "updatedBy": "anon",
+      "plain": "Agents can also benefit from spatial layout of information. Unassisted AI chats are able to infer relationships between nodes from their spatial layout. The .wb file format encodes the coordinates in plaintext so that agents have direct access to them."
+    },
+    {
+      "id": "02596502-13f3-4ecb-ba82-212cdd15fd3b",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 2398.7249836856877,
+        "y": 1225.6786227054774
+      },
+      "size": {
+        "w": 378,
+        "h": 435
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Arrangements\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"An arrangement is a logical grouping of material that does not touch the filesystem.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Bins\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Exclusive buckets where materials can be placed.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Sets\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Hierarchical inclusive categories where materials can be included to and removed from. Think of hierarchical playlists for you data. They also behave somewhat like Gmail labels.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Queries and Views\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"A medium term goal of Whitebloom is providing a generic query interface across arbitrary data sources via View Units. This would let you create highly scoped views of data, such that you can create curated or automatic collections of different documents and resources.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 378,
+      "created": "2026-04-12T20:57:44.672Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:14:14.794Z",
+      "updatedBy": "anon",
+      "plain": "Arrangements\nAn arrangement is a logical grouping of material that does not touch the filesystem.\nBins\nExclusive buckets where materials can be placed.\nSets\nHierarchical inclusive categories where materials can be included to and removed from. Think of hierarchical playlists for you data. They also behave somewhat like Gmail labels.\nQueries and Views\nA medium term goal of Whitebloom is providing a generic query interface across arbitrary data sources via View Units. This would let you create highly scoped views of data, such that you can create curated or automatic collections of different documents and resources."
+    },
+    {
+      "id": "dd2e8025-66d3-4c20-8c69-ee2344b66fa2",
+      "kind": "cluster",
+      "type": null,
+      "label": "Data, Structure, Logic",
+      "children": [
+        "a9d4a4b2-8811-4b1d-98da-63fe1c5331af",
+        "04b28373-6525-4ab6-8034-39122acc7c91",
+        "e12ed10e-184e-42b7-90ce-4f1c876bff80",
+        "02596502-13f3-4ecb-ba82-212cdd15fd3b",
+        "df1d9b99-67ed-4f72-a951-72c51107c6f6",
+        "154c4c68-ff7a-4d6b-b8c6-d3fa1ac7b613",
+        "13bcc200-c3bb-4c61-b363-41e22717a598",
+        "2826e637-9e0d-479a-99fa-cfaafe0bd0ad"
+      ],
+      "color": "blue",
+      "autofitToContents": false,
+      "position": {
+        "x": 929.0580131646052,
+        "y": 1148.3637303123305
+      },
+      "size": {
+        "w": 1913,
+        "h": 705
+      },
+      "created": "2026-04-12T20:58:24.515Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:14:46.061Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "ea2742c8-7581-4e4d-bdf9-7f9138bdf6bb",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 2427.990454764317,
+        "y": 561.1316125761889
+      },
+      "size": {
+        "w": 318,
+        "h": 317
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The Inbox\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The inbox is the way in which agents' actions are governed by people. Agentic tools have two ways: in and out. When an agent reads data, it does so in a way that does not mutate the file itself. When the agent writes back data, it does so indirectly.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"In the Open Whitebloom spec, an agent does not have direct ownership over data. Instead, agents submit proposals via HEP. A proposal is then reviewd by a person.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The inbox is where all agentic proposals live, waiting for approval.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 318,
+      "created": "2026-04-12T21:03:32.270Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:06:13.533Z",
+      "updatedBy": "anon",
+      "plain": "The Inbox\nThe inbox is the way in which agents' actions are governed by people. Agentic tools have two ways: in and out. When an agent reads data, it does so in a way that does not mutate the file itself. When the agent writes back data, it does so indirectly.\nIn the Open Whitebloom spec, an agent does not have direct ownership over data. Instead, agents submit proposals via HEP. A proposal is then reviewd by a person.\nThe inbox is where all agentic proposals live, waiting for approval."
+    },
+    {
+      "id": "13bcc200-c3bb-4c61-b363-41e22717a598",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1507.476478659032,
+        "y": 1536.702420953522
+      },
+      "size": {
+        "w": 428,
+        "h": 186
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Agentic Plaintext\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"While .wb files are plaintext, they're more than that. They're designed to be read by agents, so they have unique metadata to make it easier for agents to parse. For example, whiteboards have a \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"brief \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"field which tells the agent reading the file what the board is for. Complex nodes such as this text node also mirror their content in a \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"plain \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"field which hides rich text details, making the agent consume less tokens to parse.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 428,
+      "created": "2026-04-12T21:09:34.447Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:13:25.429Z",
+      "updatedBy": "anon",
+      "plain": "Agentic Plaintext\nWhile .wb files are plaintext, they're more than that. They're designed to be read by agents, so they have unique metadata to make it easier for agents to parse. For example, whiteboards have a brief field which tells the agent reading the file what the board is for. Complex nodes such as this text node also mirror their content in a plain field which hides rich text details, making the agent consume less tokens to parse."
+    },
+    {
+      "id": "2826e637-9e0d-479a-99fa-cfaafe0bd0ad",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1926.7383751732614,
+        "y": 1236.001942585361
+      },
+      "size": {
+        "w": 400,
+        "h": 276
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Semantic and Spatial Clustering\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Because data is laid out spatially, we can infer two kinds of information from it\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Spatial Clusters are defined by proximity. We assume that nodes closer together are part of some unit of meaning, and that they're less related to nodes further away.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Semantic Clustering is performed by an agent, which goes through the content of the nodes to form clusters of related information.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"listitem\",\"version\":1,\"value\":2}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"list\",\"version\":1,\"listType\":\"bullet\",\"start\":1,\"tag\":\"ul\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Both these clusters help agents reason about the data.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 400,
+      "created": "2026-04-12T21:11:03.653Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:14:29.367Z",
+      "updatedBy": "anon",
+      "plain": "Semantic and Spatial Clustering\nBecause data is laid out spatially, we can infer two kinds of information from it\nSpatial Clusters are defined by proximity. We assume that nodes closer together are part of some unit of meaning, and that they're less related to nodes further away.\nSemantic Clustering is performed by an agent, which goes through the content of the nodes to form clusters of related information.\nBoth these clusters help agents reason about the data."
+    },
+    {
+      "id": "cd462b8c-6582-4fbf-b915-32b94415dc3f",
+      "kind": "bud",
+      "type": "com.whitebloom.boardbloom",
+      "position": {
+        "x": 72.75136274438859,
+        "y": 730.5063265030047
+      },
+      "size": {
+        "w": 196,
+        "h": 128
+      },
+      "resource": "wloc:Whitebloom App.wb.json",
+      "label": "Whitebloom App",
+      "created": "2026-04-12T21:15:41.712Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:16:06.709Z",
+      "updatedBy": "anon"
+    }
+  ],
+  "edges": [
+    {
+      "id": "7a9a12bb-f338-418a-8442-2b312a07716b",
+      "from": "a6719f97-c7d9-40d0-8a28-13a1ba200939",
+      "to": "c96135b2-1574-4d73-99fd-fcf833e44b54",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "edgeStyle": {
+        "stroke": {
+          "width": 1.5,
+          "color": {
+            "kind": "token",
+            "value": "foreground"
+          },
+          "dash": "solid"
+        },
+        "startMarker": "arrow",
+        "endMarker": "arrow",
+        "labelColor": {
+          "kind": "token",
+          "value": "foreground"
+        }
+      }
+    },
+    {
+      "id": "defe16e1-469f-41c8-9b3b-dc3c0242c82c",
+      "from": "a6719f97-c7d9-40d0-8a28-13a1ba200939",
+      "to": "76e9797b-2adb-48e5-bee9-e91f36e97a5f",
+      "sourceHandle": "left",
+      "targetHandle": "right",
+      "edgeStyle": {
+        "stroke": {
+          "width": 1.5,
+          "color": {
+            "kind": "token",
+            "value": "foreground"
+          },
+          "dash": "solid"
+        },
+        "startMarker": "arrow",
+        "endMarker": "arrow",
+        "labelColor": {
+          "kind": "token",
+          "value": "foreground"
+        }
+      }
+    },
+    {
+      "id": "0fcb3a61-1d87-4838-8ad7-9259bc12015f",
+      "from": "c30d5c3e-803c-4576-8f13-e3380f19f2dd",
+      "to": "a6719f97-c7d9-40d0-8a28-13a1ba200939",
+      "sourceHandle": "bottom",
+      "targetHandle": "top"
+    },
+    {
+      "id": "70074706-c7c6-4541-bd10-125192926ce8",
+      "from": "c30d5c3e-803c-4576-8f13-e3380f19f2dd",
+      "to": "5db10e46-e174-4a22-8be4-27db05d4881d",
+      "sourceHandle": "right",
+      "targetHandle": "left"
+    },
+    {
+      "id": "92ba8df4-6676-42f2-bb78-f60d84d3326b",
+      "from": "fe8dea69-42c0-4575-8ea7-226355d3f151",
+      "to": "5e20fd4c-f1ae-4989-917a-6222546f831d",
+      "sourceHandle": "left",
+      "targetHandle": "right"
+    },
+    {
+      "id": "c78957be-10a5-4942-95b8-bdbae0f69f1b",
+      "from": "5e20fd4c-f1ae-4989-917a-6222546f831d",
+      "to": "05b35d99-5773-4571-9620-7f928361b3aa",
+      "sourceHandle": "left",
+      "targetHandle": "right"
+    },
+    {
+      "id": "db4a2b4b-e9d9-4359-bef0-be8f1ae6c540",
+      "from": "a6719f97-c7d9-40d0-8a28-13a1ba200939",
+      "to": "23bf5d90-0f5b-4ff3-8ee3-daf96e489dfc",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "the interface operates on a knowledge base",
+      "labelLayout": {
+        "pathPosition": 0.69
+      }
+    },
+    {
+      "id": "506cbee7-8d6b-4662-81b8-e2d723aac4f5",
+      "from": "df1d9b99-67ed-4f72-a951-72c51107c6f6",
+      "to": "23bf5d90-0f5b-4ff3-8ee3-daf96e489dfc",
+      "sourceHandle": "left",
+      "targetHandle": "right"
+    },
+    {
+      "id": "5602afd4-ef90-4533-9589-2aefac5b68cf",
+      "from": "23bf5d90-0f5b-4ff3-8ee3-daf96e489dfc",
+      "to": "da91fcc5-24fc-49dd-8198-b390c596a21b",
+      "sourceHandle": "left",
+      "targetHandle": "right",
+      "edgeStyle": {
+        "stroke": {
+          "width": 1.5,
+          "color": {
+            "kind": "token",
+            "value": "foreground"
+          },
+          "dash": "dotted"
+        },
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "labelColor": {
+          "kind": "token",
+          "value": "foreground"
+        }
+      }
+    },
+    {
+      "id": "cd080124-bfc9-4d44-84c3-5064757a516c",
+      "from": "04b28373-6525-4ab6-8034-39122acc7c91",
+      "to": "a9d4a4b2-8811-4b1d-98da-63fe1c5331af",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "is"
+    },
+    {
+      "id": "15d9ba5e-79e6-48bf-878a-8f37e6499d49",
+      "from": "c30d5c3e-803c-4576-8f13-e3380f19f2dd",
+      "to": "ff17294d-1304-4d27-860f-c4ecb46372ce",
+      "sourceHandle": "left",
+      "targetHandle": "right",
+      "edgeStyle": {
+        "stroke": {
+          "width": 1.5,
+          "color": {
+            "kind": "token",
+            "value": "foreground"
+          },
+          "dash": "dotted"
+        },
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "labelColor": {
+          "kind": "token",
+          "value": "foreground"
+        }
+      }
+    },
+    {
+      "id": "67525df8-1259-442d-9b60-d0ec153b9e2c",
+      "from": "6d6aa7f2-3261-47b2-aea9-6b31b5ffceb1",
+      "to": "ea2742c8-7581-4e4d-bdf9-7f9138bdf6bb",
+      "sourceHandle": "right",
+      "targetHandle": "left"
+    },
+    {
+      "id": "5605c2b1-15da-4592-b518-cbb7cf0321f2",
+      "from": "a9d4a4b2-8811-4b1d-98da-63fe1c5331af",
+      "to": "2826e637-9e0d-479a-99fa-cfaafe0bd0ad",
+      "sourceHandle": "right",
+      "targetHandle": "left"
+    },
+    {
+      "id": "46401978-6e4b-4df3-9948-be04d1e29a81",
+      "from": "76e9797b-2adb-48e5-bee9-e91f36e97a5f",
+      "to": "cd462b8c-6582-4fbf-b915-32b94415dc3f",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "operating via Domain Extensions",
+      "labelLayout": {
+        "pathPosition": 0.48
+      },
+      "edgeStyle": {
+        "stroke": {
+          "width": 1.5,
+          "color": {
+            "kind": "swatch",
+            "paletteId": "whitebloom-default",
+            "swatchId": "charcoal"
+          },
+          "dash": "solid"
+        },
+        "startMarker": "none",
+        "endMarker": "arrow",
+        "labelColor": {
+          "kind": "token",
+          "value": "foreground"
+        }
+      }
+    }
+  ],
+  "viewport": {
+    "x": 548.3153258343833,
+    "y": 58.474308041086715,
+    "zoom": 0.5000000000000008
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "version": 3,
+  "name": "Whitebloom App",
+  "nodes": [
+    {
+      "id": "4a61c756-cad1-45d5-a3c9-46b3606686b2",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 698.7089036909373,
+        "y": 678.4711230654121
+      },
+      "size": {
+        "w": 308,
+        "h": 58
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"WHITEBLOOM (the app)\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-12T21:15:22.663Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:18:58.365Z",
+      "updatedBy": "anon",
+      "plain": "WHITEBLOOM (the app)"
+    },
+    {
+      "id": "ff0ffb86-0f3e-4233-a363-9652faa58e01",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 589.668519719972,
+        "y": 1003.8887264966291
+      },
+      "size": {
+        "w": 491,
+        "h": 192
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Commands Palette\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Visual Mode\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This is a user friendly mode that exposes most commands in a way they're easy to search and access.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Meta Mode\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This is a power user mode that exposes raw and meta commands to the user.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 491,
+      "created": "2026-04-12T21:16:51.793Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:32:43.836Z",
+      "updatedBy": "anon",
+      "plain": "Commands Palette\nVisual Mode\nThis is a user friendly mode that exposes most commands in a way they're easy to search and access.\nMeta Mode\nThis is a power user mode that exposes raw and meta commands to the user."
+    },
+    {
+      "id": "ebb7f7dc-ebcc-4bcc-910a-00e9f4f77793",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 587.8833834607672,
+        "y": 1202.4148549639451
+      },
+      "size": {
+        "w": 378,
+        "h": 132
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Modules\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The app is written in a modular way to handle multiple files and extensions, giving the user the option to fall back to native OS handling via double click, to open the files in their app of choice.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 378,
+      "created": "2026-04-12T21:17:42.969Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:32:43.836Z",
+      "updatedBy": "anon",
+      "plain": "Modules\nThe app is written in a modular way to handle multiple files and extensions, giving the user the option to fall back to native OS handling via double click, to open the files in their app of choice."
+    },
+    {
+      "id": "53981791-527a-4e78-88fd-408587ffb573",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 692.0033513829393,
+        "y": 427.70690543207667
+      },
+      "size": {
+        "w": 321,
+        "h": 58
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"WHITEBLOOM (the spec)\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-12T21:18:34.515Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:18:52.428Z",
+      "updatedBy": "anon",
+      "plain": "WHITEBLOOM (the spec)"
+    },
+    {
+      "id": "671a5eaa-8a56-44a7-94d9-340f750be03d",
+      "kind": "bud",
+      "type": "com.whitebloom.boardbloom",
+      "position": {
+        "x": 752.884364197782,
+        "y": 200.26463114266397
+      },
+      "size": {
+        "w": 196,
+        "h": 128
+      },
+      "resource": "wloc:Whitebloom Basics.wb.json",
+      "label": "Whitebloom Basics",
+      "created": "2026-04-12T21:19:02.695Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:19:07.656Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "57a2640d-a350-4eea-a1bd-b3b5913e2b6d",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 260.5342865593723,
+        "y": 1023.7616362426535
+      },
+      "size": {
+        "w": 202,
+        "h": 58
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Infinite Canvas\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-12T21:20:00.520Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:32:43.836Z",
+      "updatedBy": "anon",
+      "plain": "Infinite Canvas"
+    },
+    {
+      "id": "a5104af3-7363-44e8-a949-4c1955a60c13",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 212.1779539926688,
+        "y": 1121.6486784580852
+      },
+      "size": {
+        "w": 172,
+        "h": 58
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Annotations\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-12T21:20:05.646Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:32:43.836Z",
+      "updatedBy": "anon",
+      "plain": "Annotations"
+    },
+    {
+      "id": "3e6c101a-6620-4acf-b2e2-77ea29acf271",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 223.06718594551148,
+        "y": 1229.5452261204523
+      },
+      "size": {
+        "w": 263,
+        "h": 58
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Nodes and handlers\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-12T21:20:13.883Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:32:43.836Z",
+      "updatedBy": "anon",
+      "plain": "Nodes and handlers"
+    },
+    {
+      "id": "de8734fb-5344-487f-8c96-7bbdcd1a7586",
+      "kind": "cluster",
+      "type": null,
+      "label": "App Features",
+      "children": [
+        "ff0ffb86-0f3e-4233-a363-9652faa58e01",
+        "ebb7f7dc-ebcc-4bcc-910a-00e9f4f77793",
+        "57a2640d-a350-4eea-a1bd-b3b5913e2b6d",
+        "a5104af3-7363-44e8-a949-4c1955a60c13",
+        "3e6c101a-6620-4acf-b2e2-77ea29acf271"
+      ],
+      "color": "blue",
+      "autofitToContents": false,
+      "position": {
+        "x": 163.9914915753352,
+        "y": 956.0071748684703
+      },
+      "size": {
+        "w": 964,
+        "h": 426
+      },
+      "created": "2026-04-12T21:20:33.761Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:32:43.836Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "7336dd50-ded7-43d7-ba06-f9237d97c7c3",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1276.2087086553754,
+        "y": 1016.532603604151
+      },
+      "size": {
+        "w": 473,
+        "h": 596
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The Swiss Toolset\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"A subset of features in the app follow what I call the Swiss Tool philosophy. A Swiss Tool does not replace a proper specialized tool, but it can nonetheless be practical.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"What is a Swiss Tool in this app, then? It's a feature that is highly specialized, hidden away, and very fast and easy to use. It's also highly opinionated in how it's supposed to be used so it doesn't support many options.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The main example of this philosophy, and the tool that made me come up with the concept of Swiss Tools, is the screen recorder.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The screen recorder targets one and only one: wanting to record a session without taking up too much space, with support for microphone audio. Thus, the screen recorder takes no configuration. You just start recording and it does its own little thing.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The primary reason for this is simple: users may not want to launch OBS to do something as simple as that, so we provide a way for them to do it. However, we could never beat OBS at their own game. OBS is amazing software, so if you want OBS features you use OBS. Just like if you need to build a PC you're most likely going to look for a proper screwdriver rather than use a Swiss Tool. And yet, if you go camping you won't take the bulky screwdriver with you, but you might take the Swiss Tool.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Thus, a Swiss Tool is a very small feature that addresses one very particular use case and is lightweight, easy and fast to use. It's a feature that requires no thought from the user.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 473,
+      "created": "2026-04-12T21:20:40.611Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:32:54.356Z",
+      "updatedBy": "anon",
+      "plain": "The Swiss Toolset\nA subset of features in the app follow what I call the Swiss Tool philosophy. A Swiss Tool does not replace a proper specialized tool, but it can nonetheless be practical.\nWhat is a Swiss Tool in this app, then? It's a feature that is highly specialized, hidden away, and very fast and easy to use. It's also highly opinionated in how it's supposed to be used so it doesn't support many options.\nThe main example of this philosophy, and the tool that made me come up with the concept of Swiss Tools, is the screen recorder.\nThe screen recorder targets one and only one: wanting to record a session without taking up too much space, with support for microphone audio. Thus, the screen recorder takes no configuration. You just start recording and it does its own little thing.\nThe primary reason for this is simple: users may not want to launch OBS to do something as simple as that, so we provide a way for them to do it. However, we could never beat OBS at their own game. OBS is amazing software, so if you want OBS features you use OBS. Just like if you need to build a PC you're most likely going to look for a proper screwdriver rather than use a Swiss Tool. And yet, if you go camping you won't take the bulky screwdriver with you, but you might take the Swiss Tool.\nThus, a Swiss Tool is a very small feature that addresses one very particular use case and is lightweight, easy and fast to use. It's a feature that requires no thought from the user."
+    },
+    {
+      "id": "e8bead6c-638c-4903-8439-334d3fc3021c",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1774.4095580601022,
+        "y": 1026.196228992118
+      },
+      "size": {
+        "w": 369,
+        "h": 293
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Screen Recorder\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"A very compact tool to record a session to disk, and a perfect example of a Swiss Tool. It's easy to use, tucked away behind the meta palette, and so opinionated that the only option is the file name, and even that comes with a default using a timestamp, so you may not even touch it.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Try it yourself\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h3\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Use alt-x to bring up the meta palette, then search for screen.start-recording. No configuration, no hassle, one command and it's up. F8 to stop recording, or screen.stop-recording from the meta palette.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 369,
+      "created": "2026-04-12T21:23:07.152Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:32:51.907Z",
+      "updatedBy": "anon",
+      "plain": "Screen Recorder\nA very compact tool to record a session to disk, and a perfect example of a Swiss Tool. It's easy to use, tucked away behind the meta palette, and so opinionated that the only option is the file name, and even that comes with a default using a timestamp, so you may not even touch it.\nTry it yourself\nUse alt-x to bring up the meta palette, then search for screen.start-recording. No configuration, no hassle, one command and it's up. F8 to stop recording, or screen.stop-recording from the meta palette."
+    },
+    {
+      "id": "0665def0-d914-4750-9b8f-f8a35e0e19b0",
+      "kind": "cluster",
+      "type": null,
+      "label": "Swiss Tools",
+      "children": [
+        "7336dd50-ded7-43d7-ba06-f9237d97c7c3",
+        "e8bead6c-638c-4903-8439-334d3fc3021c"
+      ],
+      "color": "blue",
+      "autofitToContents": false,
+      "position": {
+        "x": 1191.0218247373923,
+        "y": 954.237780816817
+      },
+      "size": {
+        "w": 1036,
+        "h": 700
+      },
+      "created": "2026-04-12T21:23:16.235Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:32:48.029Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "4882e185-c9f0-4050-83d7-101220f6a3fb",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 698.8872335799066,
+        "y": 730.1716055008542
+      },
+      "size": {
+        "w": 492,
+        "h": 93
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Whitebloom (the app) is an implementation of Open Whitebloom's Layer 3: Domain Extensions. It's a user interface for people that operates on the Core Data model via HEP. Whitebloom (the app) also comes with its own HEP layer implementation via Electron's IPC system.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 492,
+      "created": "2026-04-12T21:24:44.084Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:25:48.754Z",
+      "updatedBy": "anon",
+      "plain": "Whitebloom (the app) is an implementation of Open Whitebloom's Layer 3: Domain Extensions. It's a user interface for people that operates on the Core Data model via HEP. Whitebloom (the app) also comes with its own HEP layer implementation via Electron's IPC system."
+    }
+  ],
+  "edges": [
+    {
+      "id": "94be321b-fef2-46f0-beb7-d39c3cb261d6",
+      "from": "53981791-527a-4e78-88fd-408587ffb573",
+      "to": "4a61c756-cad1-45d5-a3c9-46b3606686b2",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "label": "is not",
+      "edgeStyle": {
+        "stroke": {
+          "width": 1.5,
+          "color": {
+            "kind": "token",
+            "value": "foreground"
+          },
+          "dash": "solid"
+        },
+        "startMarker": "arrow",
+        "endMarker": "arrow",
+        "labelColor": {
+          "kind": "token",
+          "value": "foreground"
+        }
+      }
+    },
+    {
+      "id": "3d1950df-ed73-49e5-8d5e-c1c8efaf201f",
+      "from": "53981791-527a-4e78-88fd-408587ffb573",
+      "to": "671a5eaa-8a56-44a7-94d9-340f750be03d",
+      "sourceHandle": "top",
+      "targetHandle": "bottom"
+    }
+  ],
+  "viewport": {
+    "x": 274.27604580241893,
+    "y": -66.80561744482287,
+    "zoom": 0.5743491774985184
+  }
+}
