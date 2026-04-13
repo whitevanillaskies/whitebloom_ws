@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "bins": [
+    {
+      "id": "trash",
+      "name": "Trash",
+      "kind": "system"
+    },
+    {
+      "id": "264f9369-1eae-4464-be9e-97f4973ac4db",
+      "name": "Whiteboards",
+      "kind": "user"
+    },
+    {
+      "id": "f09ad68e-bff4-4fd9-84b7-0a5e6b70d961",
+      "name": "Pictures",
+      "kind": "user"
+    },
+    {
+      "id": "7e0537cf-f134-44b5-98d3-d01e818b7bea",
+      "name": "Docs",
+      "kind": "user"
+    }
+  ],
+  "sets": [
+    {
+      "id": "498d1459-49e1-4d3c-aa62-1cf7bdd3e4d9",
+      "name": "Showcase",
+      "children": []
+    }
+  ],
+  "memberships": [
+    {
+      "materialKey": "wloc:res/screen_startrecording.jpg",
+      "setId": "498d1459-49e1-4d3c-aa62-1cf7bdd3e4d9"
+    }
+  ],
+  "binAssignments": {
+    "wloc:Whitebloom Basics.wb.json": "264f9369-1eae-4464-be9e-97f4973ac4db",
+    "wloc:Whitebloom App.wb.json": "264f9369-1eae-4464-be9e-97f4973ac4db",
+    "wloc:TODOs.wb.json": "264f9369-1eae-4464-be9e-97f4973ac4db",
+    "wloc:Features Backlog.wb.json": "264f9369-1eae-4464-be9e-97f4973ac4db",
+    "wloc:Experimental Features.wb.json": "264f9369-1eae-4464-be9e-97f4973ac4db",
+    "wloc:res/screen_startrecording.jpg": "f09ad68e-bff4-4fd9-84b7-0a5e6b70d961",
+    "file:///D:/slvtte/prj/WHITEBLOOM/code/whitebloom/docs/open_whitebloom.md": "7e0537cf-f134-44b5-98d3-d01e818b7bea"
+  },
+  "desktopPlacements": {},
+  "cameraState": {
+    "x": 0,
+    "y": 0,
+    "zoom": 1
+  },
+  "trashContents": []
+}

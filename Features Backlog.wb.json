@@ -1,0 +1,222 @@
+{
+  "version": 3,
+  "name": "Features Backlog",
+  "nodes": [
+    {
+      "id": "a5a671c3-c96d-44e4-9a9a-bf1e944e9a00",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 240,
+        "y": 179.66666666666666
+      },
+      "size": {
+        "w": 338,
+        "h": 114
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Features Backlog\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Doesn't include experimental features. These are features I want to implement but there's more important ones to work on right now.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 338,
+      "created": "2026-04-12T21:44:06.731Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:54:50.994Z",
+      "updatedBy": "anon",
+      "plain": "Features Backlog\nDoesn't include experimental features. These are features I want to implement but there's more important ones to work on right now."
+    },
+    {
+      "id": "2fcae499-11a2-47f6-847d-ee71e2801cd2",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": -2.6720448858832526,
+        "y": 405.80960300424596
+      },
+      "size": {
+        "w": 561,
+        "h": 87
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Magnetic guides, rules, and snapping\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Smart guides and snapping, plus also rulers. Also alignment commands like, taking a selection and aligning them horizontally/vertically or laying them out in a grid.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 561,
+      "created": "2026-04-12T21:54:09.801Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:06:46.500Z",
+      "updatedBy": "anon",
+      "plain": "Magnetic guides, rules, and snapping\nSmart guides and snapping, plus also rulers. Also alignment commands like, taking a selection and aligning them horizontally/vertically or laying them out in a grid."
+    },
+    {
+      "id": "f637596b-aac2-433c-a369-5e9c2306de86",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 598.7318252343521,
+        "y": 438.10859917894084
+      },
+      "size": {
+        "w": 472,
+        "h": 69
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Obsidian Crosslinking\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Once we link at least one vault, a tool to link to notes within the vault.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-13T02:21:22.585Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T02:59:23.088Z",
+      "updatedBy": "anon",
+      "plain": "Obsidian Crosslinking\nOnce we link at least one vault, a tool to link to notes within the vault."
+    },
+    {
+      "id": "60e112dc-79b5-476b-9a6e-282f9c016ffc",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 371.16963807336276,
+        "y": 546.3290113957376
+      },
+      "size": {
+        "w": 438,
+        "h": 88
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Ink Tools\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Full set of ink tools, supporting opacity, pressure sensitivity, etc.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Recognizing circles maybe? and other shapes.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-13T02:57:11.169Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:06:47.760Z",
+      "updatedBy": "anon",
+      "plain": "Ink Tools\nFull set of ink tools, supporting opacity, pressure sensitivity, etc.\nRecognizing circles maybe? and other shapes."
+    },
+    {
+      "id": "f8cb3144-c30f-4e90-a670-9cea463f4baa",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": -125.31709959522152,
+        "y": 560.8192210278944
+      },
+      "size": {
+        "w": 394,
+        "h": 105
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Remembering Styles\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Like Miro, when you draw a line for example, or double click one, it remembers the style and applies it to next lines. Same for shapes, etc.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 394,
+      "created": "2026-04-13T02:58:29.246Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:06:46.002Z",
+      "updatedBy": "anon",
+      "plain": "Remembering Styles\nLike Miro, when you draw a line for example, or double click one, it remembers the style and applies it to next lines. Same for shapes, etc."
+    },
+    {
+      "id": "fdc199fa-abd5-4321-95cd-6eea22b3dbb2",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 583.4279966707618,
+        "y": 684.8345431159563
+      },
+      "size": {
+        "w": 276,
+        "h": 69
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Tooltips\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Having tooltips on tools may be useful.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-13T02:59:09.854Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:06:48.327Z",
+      "updatedBy": "anon",
+      "plain": "Tooltips\nHaving tooltips on tools may be useful."
+    },
+    {
+      "id": "bde20db2-c113-4093-b4d9-76ce48fb0666",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 82.5565303196836,
+        "y": 670.1760047712621
+      },
+      "size": {
+        "w": 252,
+        "h": 87
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Auto Updater\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Pulling from github to auto update installed versions of the app\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 252,
+      "created": "2026-04-13T12:54:31.511Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:06:47.022Z",
+      "updatedBy": "anon",
+      "plain": "Auto Updater\nPulling from github to auto update installed versions of the app"
+    },
+    {
+      "id": "8031d44d-34ed-4da4-b8b0-a384ee672e1c",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 502.2028990194352,
+        "y": 817.8718111546718
+      },
+      "size": {
+        "w": 388,
+        "h": 87
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Navigation\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"When you go into a board, a button to go back (and also nav buttons on your mouse if you have them)\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 388,
+      "created": "2026-04-13T13:05:10.747Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:06:49.246Z",
+      "updatedBy": "anon",
+      "plain": "Navigation\nWhen you go into a board, a button to go back (and also nav buttons on your mouse if you have them)"
+    },
+    {
+      "id": "63abe0ab-7c61-4c80-9cf0-602306b9103f",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": -10.88902694125494,
+        "y": 832.1760359397014
+      },
+      "size": {
+        "w": 384,
+        "h": 87
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Improving the home screen\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"At the very least add a section for recent workspaces and also let users pin boards / workspaces\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 384,
+      "created": "2026-04-13T13:05:46.490Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:06:49.789Z",
+      "updatedBy": "anon",
+      "plain": "Improving the home screen\nAt the very least add a section for recent workspaces and also let users pin boards / workspaces"
+    },
+    {
+      "id": "01e473e6-9a15-4a73-9c37-b00e3b7c2c3f",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 880.3846206573411,
+        "y": 563.3886850079572
+      },
+      "size": {
+        "w": 348,
+        "h": 105
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Groupings for the palette\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"All the commands are mixed together, making it quite messy. Make it work more like Spotlight in macOS.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 348,
+      "created": "2026-04-13T13:11:23.346Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:11:48.536Z",
+      "updatedBy": "anon",
+      "plain": "Groupings for the palette\nAll the commands are mixed together, making it quite messy. Make it work more like Spotlight in macOS."
+    }
+  ],
+  "edges": [],
+  "viewport": {
+    "x": 317.3736908110636,
+    "y": -24.785802436456947,
+    "zoom": 0.7500000000000004
+  }
+}

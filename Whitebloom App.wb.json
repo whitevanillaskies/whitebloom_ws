@@ -28,8 +28,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 589.668519719972,
-        "y": 1003.8887264966291
+        "x": 592.3075355415176,
+        "y": 1001.2497106750832
       },
       "size": {
         "w": 491,
@@ -40,7 +40,7 @@
       "wrapWidth": 491,
       "created": "2026-04-12T21:16:51.793Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-12T21:32:43.836Z",
+      "updatedAt": "2026-04-13T03:02:23.933Z",
       "updatedBy": "anon",
       "plain": "Commands Palette\nVisual Mode\nThis is a user friendly mode that exposes most commands in a way they're easy to search and access.\nMeta Mode\nThis is a power user mode that exposes raw and meta commands to the user."
     },
@@ -49,8 +49,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 587.8833834607672,
-        "y": 1202.4148549639451
+        "x": 590.5223992823128,
+        "y": 1199.7758391423993
       },
       "size": {
         "w": 378,
@@ -61,7 +61,7 @@
       "wrapWidth": 378,
       "created": "2026-04-12T21:17:42.969Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-12T21:32:43.836Z",
+      "updatedAt": "2026-04-13T03:02:23.933Z",
       "updatedBy": "anon",
       "plain": "Modules\nThe app is written in a modular way to handle multiple files and extensions, giving the user the option to fall back to native OS handling via double click, to open the files in their app of choice."
     },
@@ -110,8 +110,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 260.5342865593723,
-        "y": 1023.7616362426535
+        "x": 261.85379447014503,
+        "y": 1029.0396678857448
       },
       "size": {
         "w": 202,
@@ -122,7 +122,7 @@
       "wrapWidth": null,
       "created": "2026-04-12T21:20:00.520Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-12T21:32:43.836Z",
+      "updatedAt": "2026-04-13T03:02:44.956Z",
       "updatedBy": "anon",
       "plain": "Infinite Canvas"
     },
@@ -131,8 +131,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 212.1779539926688,
-        "y": 1121.6486784580852
+        "x": 251.76319131585535,
+        "y": 1142.7608050304514
       },
       "size": {
         "w": 172,
@@ -143,7 +143,7 @@
       "wrapWidth": null,
       "created": "2026-04-12T21:20:05.646Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-12T21:32:43.836Z",
+      "updatedAt": "2026-04-13T03:02:44.060Z",
       "updatedBy": "anon",
       "plain": "Annotations"
     },
@@ -152,8 +152,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 223.06718594551148,
-        "y": 1229.5452261204523
+        "x": 205.91358310546372,
+        "y": 1253.296368514364
       },
       "size": {
         "w": 263,
@@ -164,7 +164,7 @@
       "wrapWidth": null,
       "created": "2026-04-12T21:20:13.883Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-12T21:32:43.836Z",
+      "updatedAt": "2026-04-13T03:02:43.162Z",
       "updatedBy": "anon",
       "plain": "Nodes and handlers"
     },
@@ -178,21 +178,23 @@
         "ebb7f7dc-ebcc-4bcc-910a-00e9f4f77793",
         "57a2640d-a350-4eea-a1bd-b3b5913e2b6d",
         "a5104af3-7363-44e8-a949-4c1955a60c13",
-        "3e6c101a-6620-4acf-b2e2-77ea29acf271"
+        "3e6c101a-6620-4acf-b2e2-77ea29acf271",
+        "3bacd56a-a258-4d81-a338-c9f62daf32e7",
+        "37f7f0d1-b062-42b8-a244-e119f68e8ed6"
       ],
       "color": "blue",
       "autofitToContents": false,
       "position": {
-        "x": 163.9914915753352,
-        "y": 956.0071748684703
+        "x": 166.63050739688083,
+        "y": 953.3681590469245
       },
       "size": {
-        "w": 964,
-        "h": 426
+        "w": 984,
+        "h": 569
       },
       "created": "2026-04-12T21:20:33.761Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-12T21:32:43.836Z",
+      "updatedAt": "2026-04-13T03:02:49.036Z",
       "updatedBy": "anon"
     },
     {
@@ -244,7 +246,9 @@
       "label": "Swiss Tools",
       "children": [
         "7336dd50-ded7-43d7-ba06-f9237d97c7c3",
-        "e8bead6c-638c-4903-8439-334d3fc3021c"
+        "e8bead6c-638c-4903-8439-334d3fc3021c",
+        "2a5dbc17-8645-4210-b647-674725a57091",
+        "a3f9b751-957d-467d-bd79-077ce02ecf55"
       ],
       "color": "blue",
       "autofitToContents": false,
@@ -253,12 +257,12 @@
         "y": 954.237780816817
       },
       "size": {
-        "w": 1036,
-        "h": 700
+        "w": 1179,
+        "h": 729
       },
       "created": "2026-04-12T21:23:16.235Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-12T21:32:48.029Z",
+      "updatedAt": "2026-04-13T13:17:13.555Z",
       "updatedBy": "anon"
     },
     {
@@ -281,6 +285,125 @@
       "updatedAt": "2026-04-12T21:25:48.754Z",
       "updatedBy": "anon",
       "plain": "Whitebloom (the app) is an implementation of Open Whitebloom's Layer 3: Domain Extensions. It's a user interface for people that operates on the Core Data model via HEP. Whitebloom (the app) also comes with its own HEP layer implementation via Electron's IPC system."
+    },
+    {
+      "id": "b032d809-e076-4f35-843a-7914ff3686ab",
+      "kind": "bud",
+      "type": "com.whitebloom.boardbloom",
+      "position": {
+        "x": 1364.542659590738,
+        "y": 721.3479772866771
+      },
+      "size": {
+        "w": 196,
+        "h": 128
+      },
+      "resource": "wloc:Experimental Features.wb.json",
+      "label": "Experimental Features",
+      "created": "2026-04-12T21:44:26.432Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:44:37.127Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "1cea4c2c-6139-428a-b9de-3ac9730626ac",
+      "kind": "bud",
+      "type": "com.whitebloom.boardbloom",
+      "position": {
+        "x": 1618.743424073205,
+        "y": 723.0890784132694
+      },
+      "size": {
+        "w": 196,
+        "h": 128
+      },
+      "resource": "wloc:Features Backlog.wb.json",
+      "label": "Features Backlog",
+      "created": "2026-04-12T21:44:32.142Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:44:37.127Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "3bacd56a-a258-4d81-a338-c9f62daf32e7",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 272.5629869560497,
+        "y": 1365.2345171273223
+      },
+      "size": {
+        "w": 238,
+        "h": 58
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Links and Imports\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-13T03:02:09.961Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T03:02:35.647Z",
+      "updatedBy": "anon",
+      "plain": "Links and Imports"
+    },
+    {
+      "id": "37f7f0d1-b062-42b8-a244-e119f68e8ed6",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 645.9837257047782,
+        "y": 1381.0686120565967
+      },
+      "size": {
+        "w": 239,
+        "h": 58
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Materials Window\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-13T03:02:49.036Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T03:03:00.731Z",
+      "updatedBy": "anon",
+      "plain": "Materials Window"
+    },
+    {
+      "id": "a3f9b751-957d-467d-bd79-077ce02ecf55",
+      "kind": "bud",
+      "type": "com.whitebloom.image",
+      "position": {
+        "x": 1781.1315757597274,
+        "y": 1355.5996703172007
+      },
+      "size": {
+        "w": 518,
+        "h": 124
+      },
+      "resource": "wloc:res/screen_startrecording.jpg",
+      "created": "2026-04-13T13:02:30.283Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:17:17.509Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "2a5dbc17-8645-4210-b647-674725a57091",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1768.624228040485,
+        "y": 1478.7602043932745
+      },
+      "size": {
+        "w": 505,
+        "h": 57
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"color: #6b7280;\",\"text\":\"Swiss tools should be generally kept neatly tucked away from the main UI, for example via contextual actions or in the meta palette.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"color: #6b7280;\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 505,
+      "created": "2026-04-13T13:16:18.556Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:17:26.695Z",
+      "updatedBy": "anon",
+      "plain": "Swiss tools should be generally kept neatly tucked away from the main UI, for example via contextual actions or in the meta palette."
     }
   ],
   "edges": [
@@ -317,8 +440,8 @@
     }
   ],
   "viewport": {
-    "x": 274.27604580241893,
-    "y": -66.80561744482287,
-    "zoom": 0.5743491774985184
+    "x": -307.5240331441778,
+    "y": -504.8477846541457,
+    "zoom": 0.7578582832552002
   }
 }

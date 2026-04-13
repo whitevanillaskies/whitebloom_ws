@@ -1,0 +1,750 @@
+{
+  "version": 3,
+  "name": "TODOs",
+  "nodes": [
+    {
+      "id": "6fb7f628-5e31-4d61-8fea-903542446b64",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 577.786509743882,
+        "y": 220.81237481952235
+      },
+      "size": {
+        "w": 430,
+        "h": 114
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Current TODOs\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This is not the backlog, this is what we're working on right now. For the backlog and experimental features consult these two boards.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 430,
+      "created": "2026-04-12T21:42:00.540Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:15:58.519Z",
+      "updatedBy": "anon",
+      "plain": "Current TODOs\nThis is not the backlog, this is what we're working on right now. For the backlog and experimental features consult these two boards."
+    },
+    {
+      "id": "892371bd-05cf-415b-80f7-bf9fc12ef0b4",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 288.24268720919537,
+        "y": 607.8484796964764
+      },
+      "size": {
+        "w": 340,
+        "h": 105
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Undo / Redo\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"We have support for a history stack, we just need to make all commands implement undo functionality.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 340,
+      "created": "2026-04-12T21:42:23.523Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:25:56.955Z",
+      "updatedBy": "anon",
+      "plain": "Undo / Redo\nWe have support for a history stack, we just need to make all commands implement undo functionality."
+    },
+    {
+      "id": "1d4246b1-410d-4450-b0ec-daaebc4939c8",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 668.5627559827686,
+        "y": 649.7407551634443
+      },
+      "size": {
+        "w": 328,
+        "h": 105
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Ink erasing\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"We can erase strokes via undo, but we need both an eraser tool and a way to clear the whole layer (undoable)\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 328,
+      "created": "2026-04-12T21:42:28.162Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:26:00.703Z",
+      "updatedBy": "anon",
+      "plain": "Ink erasing\nWe can erase strokes via undo, but we need both an eraser tool and a way to clear the whole layer (undoable)"
+    },
+    {
+      "id": "8b9b833c-2951-4dc2-9876-80d6013cf1bb",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1113.317514527607,
+        "y": 99.88503256562052
+      },
+      "size": {
+        "w": 84,
+        "h": 58
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Bugs\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-12T21:42:37.965Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:15:51.287Z",
+      "updatedBy": "anon",
+      "plain": "Bugs"
+    },
+    {
+      "id": "6a9988af-7639-495c-9de6-66d27c6c591f",
+      "kind": "cluster",
+      "type": null,
+      "label": "Features",
+      "children": [
+        "892371bd-05cf-415b-80f7-bf9fc12ef0b4",
+        "1d4246b1-410d-4450-b0ec-daaebc4939c8",
+        "79e0ed29-ce40-43e1-a096-5cdfd4c5ca3b",
+        "862b0bee-6eb8-41b2-8d30-883dc9f95085",
+        "c3e7f2d4-5896-49b5-8b28-cc0e8a867e67",
+        "adcb25bf-b16f-4c3a-9920-33c5032b065e",
+        "3b9c8f44-4530-4f6e-9ba8-aeadc16cc1e2",
+        "5bb1d616-a78f-4a88-8cd7-3754241f3205"
+      ],
+      "color": "blue",
+      "autofitToContents": false,
+      "position": {
+        "x": 139.83889823993673,
+        "y": 545.4101109397192
+      },
+      "size": {
+        "w": 900,
+        "h": 831
+      },
+      "created": "2026-04-12T21:42:47.616Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:25:44.529Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "d09172af-633c-489e-b234-eab39d7f3059",
+      "kind": "cluster",
+      "type": null,
+      "label": "Bugs",
+      "children": [
+        "8b9b833c-2951-4dc2-9876-80d6013cf1bb",
+        "cfc08ed6-aca9-410a-bc19-9a4cd2da99cd",
+        "58fa9a14-1146-44c9-8b9f-ea552a2773bb",
+        "162d25fe-0be3-4257-b3fa-585b74a01f75",
+        "ce86f9fd-51f9-4173-b46b-5488c1a02b7e"
+      ],
+      "color": "blue",
+      "autofitToContents": false,
+      "position": {
+        "x": 1064.9841811942738,
+        "y": 52.38503256562052
+      },
+      "size": {
+        "w": 904,
+        "h": 472
+      },
+      "created": "2026-04-12T21:42:56.809Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:15:51.287Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "cfc08ed6-aca9-410a-bc19-9a4cd2da99cd",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1275.4984237342305,
+        "y": 163.81070713908835
+      },
+      "size": {
+        "w": 320,
+        "h": 57
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Sometimes after editing a node, the whole board gets selected.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 320,
+      "created": "2026-04-12T21:43:07.053Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:15:51.287Z",
+      "updatedBy": "anon",
+      "plain": "Sometimes after editing a node, the whole board gets selected."
+    },
+    {
+      "id": "58fa9a14-1146-44c9-8b9f-ea552a2773bb",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1117.6091120002836,
+        "y": 285.193072480508
+      },
+      "size": {
+        "w": 268,
+        "h": 148
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Some tools create their nodes at the center instead of activating the tool. For example, the shape tools should not create a node in the middle, they should behave like the text tool.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Same happens for example when linking a board from the palette.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 268,
+      "created": "2026-04-12T21:44:48.507Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:15:51.287Z",
+      "updatedBy": "anon",
+      "plain": "Some tools create their nodes at the center instead of activating the tool. For example, the shape tools should not create a node in the middle, they should behave like the text tool.\nSame happens for example when linking a board from the palette."
+    },
+    {
+      "id": "6e225e7d-79de-4422-a97d-2c630a6076a2",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1129.5667292631979,
+        "y": 616.4026572040694
+      },
+      "size": {
+        "w": 101,
+        "h": 58
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Issues\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-12T21:47:36.268Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:56:46.917Z",
+      "updatedBy": "anon",
+      "plain": "Issues"
+    },
+    {
+      "id": "6d74cc19-ddec-486b-969b-4e293864b781",
+      "kind": "cluster",
+      "type": null,
+      "label": "Cosmetic Issues",
+      "children": [
+        "6e225e7d-79de-4422-a97d-2c630a6076a2",
+        "aac72e58-3d3d-4d84-a034-9a3a2eb7a126",
+        "91140fe2-02dc-4bcc-a614-5568ad6a0e90",
+        "f69c107b-1dca-4714-b8fb-3a15c1dfe8fd",
+        "9abcce82-cd6e-4c23-a6e8-040944f22085",
+        "8e6db0ff-a8b7-4930-9de0-918c223a87e7",
+        "3db3b4c4-db00-4b04-93ae-70f704cb6f70",
+        "30c2b287-90ba-495d-8b72-b6740282d0ee",
+        "8267941e-6801-408a-a665-e16d0d5c4f85",
+        "8419d12e-e7c5-4c41-a2e6-dee0db6b3e40",
+        "f55c3ac6-faaf-4583-8e49-47976b717b5d",
+        "0f55e001-e4c3-458e-9302-7c13fdc2ab1e",
+        "d2cae3dd-8464-40e6-889c-d3b8ec88ee92",
+        "7bf304b3-99bc-43c7-9d86-ea7539ff86ca",
+        "adaca117-271d-47f4-b106-64277b2d7c38"
+      ],
+      "color": "blue",
+      "autofitToContents": false,
+      "position": {
+        "x": 1064.3333333333337,
+        "y": 552.594366953294
+      },
+      "size": {
+        "w": 1552,
+        "h": 792
+      },
+      "created": "2026-04-12T21:47:43.873Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:26:20.055Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "aac72e58-3d3d-4d84-a034-9a3a2eb7a126",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1148.3969498697818,
+        "y": 735.4113348374226
+      },
+      "size": {
+        "w": 335,
+        "h": 75
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The PDF Viewer screen looks horrible, especially the toolbar. We may want to define a toolbar component to reuse across the app.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 335,
+      "created": "2026-04-12T21:47:57.035Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T22:01:02.983Z",
+      "updatedBy": "anon",
+      "plain": "The PDF Viewer screen looks horrible, especially the toolbar. We may want to define a toolbar component to reuse across the app."
+    },
+    {
+      "id": "79e0ed29-ce40-43e1-a096-5cdfd4c5ca3b",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 223.44179622278915,
+        "y": 778.6846126958059
+      },
+      "size": {
+        "w": 457,
+        "h": 106
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Ink Colors and Eraser\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"We need a contextual toolbar for the tool itself. The ink tool should activate that toolbar, both in the canvas and in the PDF Viewer.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Options: stroke width and color, optionally pressure sensitivity.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 457,
+      "created": "2026-04-12T21:48:30.612Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:25:58.685Z",
+      "updatedBy": "anon",
+      "plain": "Ink Colors and Eraser\nWe need a contextual toolbar for the tool itself. The ink tool should activate that toolbar, both in the canvas and in the PDF Viewer.\nOptions: stroke width and color, optionally pressure sensitivity."
+    },
+    {
+      "id": "862b0bee-6eb8-41b2-8d30-883dc9f95085",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 749.8971068155804,
+        "y": 838.0430549481827
+      },
+      "size": {
+        "w": 125,
+        "h": 49
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Copypaste\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-12T21:51:40.152Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:25:59.379Z",
+      "updatedBy": "anon",
+      "plain": "Copypaste"
+    },
+    {
+      "id": "135dde58-440c-47e6-ab68-2d0e303fddf8",
+      "kind": "bud",
+      "type": "com.whitebloom.boardbloom",
+      "position": {
+        "x": 580.945958050321,
+        "y": 364.40504400770465
+      },
+      "size": {
+        "w": 196,
+        "h": 128
+      },
+      "resource": "wloc:Features Backlog.wb.json",
+      "label": "Features Backlog",
+      "created": "2026-04-12T21:52:11.573Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:15:58.519Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "b9c8a171-19e4-47e1-96c4-04c7cf164683",
+      "kind": "bud",
+      "type": "com.whitebloom.boardbloom",
+      "position": {
+        "x": 803.9944397675786,
+        "y": 366.0612329633643
+      },
+      "size": {
+        "w": 196,
+        "h": 128
+      },
+      "resource": "wloc:Experimental Features.wb.json",
+      "label": "Experimental Features",
+      "created": "2026-04-12T21:52:36.003Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:15:58.519Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "c3e7f2d4-5896-49b5-8b28-cc0e8a867e67",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 216.4155716836752,
+        "y": 938.5713518072196
+      },
+      "size": {
+        "w": 378,
+        "h": 191
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Exporting\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Different ways of exporting our work.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Exporting Annotated PDFs\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h3\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Baking the annotations into the PDFs, possibly creating a copy or telling the user this will override their PDFs\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Exporting the canvas\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h3\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"As a picture, most likely.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 378,
+      "created": "2026-04-12T21:55:13.309Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:25:57.987Z",
+      "updatedBy": "anon",
+      "plain": "Exporting\nDifferent ways of exporting our work.\nExporting Annotated PDFs\nBaking the annotations into the PDFs, possibly creating a copy or telling the user this will override their PDFs\nExporting the canvas\nAs a picture, most likely."
+    },
+    {
+      "id": "adcb25bf-b16f-4c3a-9920-33c5032b065e",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 661.7922615934135,
+        "y": 1004.0902582801458
+      },
+      "size": {
+        "w": 322,
+        "h": 123
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"PDF page extraction\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"A command that extracts pages from a PDF, like Microsoft Whiteboard. Should automatically group them in a Set so they're easy to find by the user.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 322,
+      "created": "2026-04-12T21:56:02.689Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:25:59.911Z",
+      "updatedBy": "anon",
+      "plain": "PDF page extraction\nA command that extracts pages from a PDF, like Microsoft Whiteboard. Should automatically group them in a Set so they're easy to find by the user."
+    },
+    {
+      "id": "91140fe2-02dc-4bcc-a614-5568ad6a0e90",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1143.9330513327754,
+        "y": 884.9118452045491
+      },
+      "size": {
+        "w": 347,
+        "h": 75
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The thumbnail generation work but is too lazy, maybe on clicking the save button it should also take a capture?\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 347,
+      "created": "2026-04-12T21:56:57.340Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T00:05:59.804Z",
+      "updatedBy": "anon",
+      "plain": "The thumbnail generation work but is too lazy, maybe on clicking the save button it should also take a capture?"
+    },
+    {
+      "id": "f69c107b-1dca-4714-b8fb-3a15c1dfe8fd",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1573.6457940574194,
+        "y": 646.1599453880971
+      },
+      "size": {
+        "w": 265,
+        "h": 111
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"It doesn't feel right how by default MicaWindow will show up so close to the top left corner. Should be more centered, or even look for empty space.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 265,
+      "created": "2026-04-12T21:57:38.696Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:27:09.230Z",
+      "updatedBy": "anon",
+      "plain": "It doesn't feel right how by default MicaWindow will show up so close to the top left corner. Should be more centered, or even look for empty space."
+    },
+    {
+      "id": "9abcce82-cd6e-4c23-a6e8-040944f22085",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1877.2994689744594,
+        "y": 946.415490893469
+      },
+      "size": {
+        "w": 237,
+        "h": 93
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"I think it would be nice if we could resize clusters by dragging on edges, not just corners. Like text.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 237,
+      "created": "2026-04-12T21:58:26.539Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T00:05:57.281Z",
+      "updatedBy": "anon",
+      "plain": "I think it would be nice if we could resize clusters by dragging on edges, not just corners. Like text."
+    },
+    {
+      "id": "8e6db0ff-a8b7-4930-9de0-918c223a87e7",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1604.9854386485401,
+        "y": 834.4946627819454
+      },
+      "size": {
+        "w": 186,
+        "h": 75
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"MicaWindow isn't remembering the last opened opsition.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 186,
+      "created": "2026-04-12T21:58:47.168Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T00:05:58.084Z",
+      "updatedBy": "anon",
+      "plain": "MicaWindow isn't remembering the last opened opsition."
+    },
+    {
+      "id": "3db3b4c4-db00-4b04-93ae-70f704cb6f70",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1885.5520670224012,
+        "y": 687.3586363281204
+      },
+      "size": {
+        "w": 187,
+        "h": 165
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The canvas isn't remembering the ink overlay toggle, so every time you open a whiteboard you get to see the ink overlay even if you disabled it last time.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 187,
+      "created": "2026-04-12T21:58:59.033Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T22:01:04.981Z",
+      "updatedBy": "anon",
+      "plain": "The canvas isn't remembering the ink overlay toggle, so every time you open a whiteboard you get to see the ink overlay even if you disabled it last time."
+    },
+    {
+      "id": "30c2b287-90ba-495d-8b72-b6740282d0ee",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1504.2565887263588,
+        "y": 951.8103567370464
+      },
+      "size": {
+        "w": 323,
+        "h": 93
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Maybe the image virtualization is too aggressive, we could try preloading them offscreen so they don't pop into view as often when panning the canvas.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 323,
+      "created": "2026-04-12T21:59:50.761Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:15:35.366Z",
+      "updatedBy": "anon",
+      "plain": "Maybe the image virtualization is too aggressive, we could try preloading them offscreen so they don't pop into view as often when panning the canvas."
+    },
+    {
+      "id": "8267941e-6801-408a-a665-e16d0d5c4f85",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1168.349756776307,
+        "y": 1030.2521433196823
+      },
+      "size": {
+        "w": 286,
+        "h": 111
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"When you create a new child set on the Materials view, and the parent set is collapsed, the window will set the child set as editable but it won't expand the parent which looks really bad.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 286,
+      "created": "2026-04-13T00:05:16.095Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T00:05:58.999Z",
+      "updatedBy": "anon",
+      "plain": "When you create a new child set on the Materials view, and the parent set is collapsed, the window will set the child set as editable but it won't expand the parent which looks really bad."
+    },
+    {
+      "id": "8419d12e-e7c5-4c41-a2e6-dee0db6b3e40",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1717.400776968781,
+        "y": 1100.4703142074115
+      },
+      "size": {
+        "w": 397,
+        "h": 75
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Toolbars like for text, edges, etc. need to be improved, right now it's hard to tell if on an edge for example you're setting the edge or label color, etc.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 397,
+      "created": "2026-04-13T02:57:47.709Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:26:49.179Z",
+      "updatedBy": "anon",
+      "plain": "Toolbars like for text, edges, etc. need to be improved, right now it's hard to tell if on an edge for example you're setting the edge or label color, etc."
+    },
+    {
+      "id": "162d25fe-0be3-4257-b3fa-585b74a01f75",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1440.9652991360463,
+        "y": 301.6760349504612
+      },
+      "size": {
+        "w": 186,
+        "h": 111
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"When the hand tool is on, LMB (M1) will drag clusters, this is wrong, it should always simply plan the canvas\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 186,
+      "created": "2026-04-13T13:10:31.356Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:15:51.287Z",
+      "updatedBy": "anon",
+      "plain": "When the hand tool is on, LMB (M1) will drag clusters, this is wrong, it should always simply plan the canvas"
+    },
+    {
+      "id": "f55c3ac6-faaf-4583-8e49-47976b717b5d",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1303.1056152962497,
+        "y": 644.5633687610809
+      },
+      "size": {
+        "w": 218,
+        "h": 39
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Some tools missing shortcuts\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-13T13:11:13.191Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:11:19.459Z",
+      "updatedBy": "anon",
+      "plain": "Some tools missing shortcuts"
+    },
+    {
+      "id": "0f55e001-e4c3-458e-9302-7c13fdc2ab1e",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 2136.242756320646,
+        "y": 657.5075296873166
+      },
+      "size": {
+        "w": 413,
+        "h": 188
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Shortcuts aren't exactly working right in the meta finder, I think. The search feature looks good, but what we need is a strict match.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"If we have \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Arr \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"and \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"rr\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" then if the user types \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"rr \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"because that's an strict match it should only select that one.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Also all shortcuts should be lowercased and case insensitive during search.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 413,
+      "created": "2026-04-13T13:12:05.531Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:27:08.314Z",
+      "updatedBy": "anon",
+      "plain": "Shortcuts aren't exactly working right in the meta finder, I think. The search feature looks good, but what we need is a strict match.\nIf we have Arr and rr then if the user types rr because that's an strict match it should only select that one.\nAlso all shortcuts should be lowercased and case insensitive during search."
+    },
+    {
+      "id": "d2cae3dd-8464-40e6-889c-d3b8ec88ee92",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 2164.671566926092,
+        "y": 951.0908021532886
+      },
+      "size": {
+        "w": 261,
+        "h": 93
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"An inconsistency: if you select shapes from the canvas toolbar you get a menu, if you select ink you get a toolbar. Give shapes a toolbar too.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 261,
+      "created": "2026-04-13T13:13:53.366Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:27:05.831Z",
+      "updatedBy": "anon",
+      "plain": "An inconsistency: if you select shapes from the canvas toolbar you get a menu, if you select ink you get a toolbar. Give shapes a toolbar too."
+    },
+    {
+      "id": "ce86f9fd-51f9-4173-b46b-5488c1a02b7e",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1694.4164649795916,
+        "y": 179.10530140288458
+      },
+      "size": {
+        "w": 211,
+        "h": 111
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Eraser undo/redo is bugged on the history stack. If you just draw it's working, but mixing drawing and erasing messes it up.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 211,
+      "created": "2026-04-13T13:14:30.535Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:15:51.287Z",
+      "updatedBy": "anon",
+      "plain": "Eraser undo/redo is bugged on the history stack. If you just draw it's working, but mixing drawing and erasing messes it up."
+    },
+    {
+      "id": "7bf304b3-99bc-43c7-9d86-ea7539ff86ca",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 2185.2472970909434,
+        "y": 1150.0193246279678
+      },
+      "size": {
+        "w": 250,
+        "h": 93
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"I think you should be allowed to pan and zoom the canvas when editing text without going out of text editing mode.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 250,
+      "created": "2026-04-13T13:20:20.299Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:27:05.252Z",
+      "updatedBy": "anon",
+      "plain": "I think you should be allowed to pan and zoom the canvas when editing text without going out of text editing mode."
+    },
+    {
+      "id": "3b9c8f44-4530-4f6e-9ba8-aeadc16cc1e2",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 184.48374854487105,
+        "y": 1184.1495129321374
+      },
+      "size": {
+        "w": 362,
+        "h": 105
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Toolbar Component\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"A toolbar we can use for exampel in the PDF viewer and in other editors like that, inspired by the Apple toolbars.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 362,
+      "created": "2026-04-13T13:21:52.124Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:25:46.998Z",
+      "updatedBy": "anon",
+      "plain": "Toolbar Component\nA toolbar we can use for exampel in the PDF viewer and in other editors like that, inspired by the Apple toolbars."
+    },
+    {
+      "id": "5bb1d616-a78f-4a88-8cd7-3754241f3205",
+      "kind": "bud",
+      "type": "com.whitebloom.image",
+      "position": {
+        "x": 199.21843111768044,
+        "y": 1293.1926665784888
+      },
+      "size": {
+        "w": 768,
+        "h": 51
+      },
+      "resource": "wloc:res/pages_toolbar.jpg",
+      "created": "2026-04-13T13:25:36.705Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:25:45.782Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "adaca117-271d-47f4-b106-64277b2d7c38",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1364.1609888939824,
+        "y": 1185.8223377125657
+      },
+      "size": {
+        "w": 289,
+        "h": 93
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Possibly being able to tab to complete commands from inside the palette in meta mode, without closing the palette. Esc always closes.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 289,
+      "created": "2026-04-13T13:26:20.055Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:26:45.878Z",
+      "updatedBy": "anon",
+      "plain": "Possibly being able to tab to complete commands from inside the palette in meta mode, without closing the palette. Esc always closes."
+    }
+  ],
+  "edges": [],
+  "viewport": {
+    "x": 255.84686432616257,
+    "y": 160.61831235687816,
+    "zoom": 0.5
+  }
+}

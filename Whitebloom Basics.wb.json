@@ -397,8 +397,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 2268.2011482908733,
-        "y": 143.92126306635092
+        "x": 2277.295447689936,
+        "y": 145.43697963286132
       },
       "size": {
         "w": 352,
@@ -409,7 +409,7 @@
       "wrapWidth": 352,
       "created": "2026-04-12T20:18:23.714Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-12T20:19:54.256Z",
+      "updatedAt": "2026-04-13T12:56:26.115Z",
       "updatedBy": "anon",
       "plain": "Because Open Whitebloom is a specification, not actual software, different providers can build products for it. If you're viewing this whiteboard on an app, this is just one implementation of the spec as a layer 3 domain binding."
     },
@@ -885,8 +885,8 @@
     }
   ],
   "viewport": {
-    "x": 548.3153258343833,
-    "y": 58.474308041086715,
-    "zoom": 0.5000000000000008
+    "x": -340.6260915152475,
+    "y": -400.61006804865474,
+    "zoom": 0.7578582832551992
   }
 }

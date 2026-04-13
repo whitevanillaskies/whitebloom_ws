@@ -1,0 +1,293 @@
+{
+  "version": 3,
+  "name": "Experimental Features",
+  "nodes": [
+    {
+      "id": "f1695d47-4ec3-4158-a16a-22f60cd0099e",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 820.8660622260577,
+        "y": 210.193360113622
+      },
+      "size": {
+        "w": 295,
+        "h": 58
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Experimental Features\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-12T21:43:48.610Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-12T21:54:06.002Z",
+      "updatedBy": "anon",
+      "plain": "Experimental Features"
+    },
+    {
+      "id": "f5baf2d0-f6ea-4a11-97dc-a00aecd645f6",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1532.258341535096,
+        "y": 519.1092027036681
+      },
+      "size": {
+        "w": 520,
+        "h": 96
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Queries and Views\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Composable way of accessing resources in arbitrary locations, databases, etc. and treating them in the same way across multiple domains.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 520,
+      "created": "2026-04-12T21:53:23.512Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:10:20.829Z",
+      "updatedBy": "anon",
+      "plain": "Queries and Views\nComposable way of accessing resources in arbitrary locations, databases, etc. and treating them in the same way across multiple domains."
+    },
+    {
+      "id": "eda067f4-71de-4066-b127-a624bad48100",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 419.1409363238454,
+        "y": 530.2608224879166
+      },
+      "size": {
+        "w": 490,
+        "h": 114
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Scriptable Shell\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The natural progression of meta commands is having a small scripting layer and a shell. Then you can code your own macros/sequences and commands.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 490,
+      "created": "2026-04-12T21:53:32.213Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:09:52.777Z",
+      "updatedBy": "anon",
+      "plain": "Scriptable Shell\nThe natural progression of meta commands is having a small scripting layer and a shell. Then you can code your own macros/sequences and commands."
+    },
+    {
+      "id": "147acb7c-f0a9-4225-9b57-a6b1c75ca5ee",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 2101.9559260434144,
+        "y": 654.1519982974747
+      },
+      "size": {
+        "w": 490,
+        "h": 96
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Embedded Agent\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Being able to control an agent from the app, where the agent has access to the HEP layer and can work on the board.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 490,
+      "created": "2026-04-12T21:53:51.325Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:10:20.829Z",
+      "updatedBy": "anon",
+      "plain": "Embedded Agent\nBeing able to control an agent from the app, where the agent has access to the HEP layer and can work on the board."
+    },
+    {
+      "id": "c376dcfb-912d-4646-8070-684d6f47a73b",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 844.4466957797425,
+        "y": 793.5266811151209
+      },
+      "size": {
+        "w": 382,
+        "h": 115
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Org-ish mode\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Support for org files, including TODOS, consolidated agendas, and clocking in.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Absolutely call it orgish\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 382,
+      "created": "2026-04-12T21:53:57.777Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:09:58.987Z",
+      "updatedBy": "anon",
+      "plain": "Org-ish mode\nSupport for org files, including TODOS, consolidated agendas, and clocking in.\nAbsolutely call it orgish"
+    },
+    {
+      "id": "8c484d7d-02f7-4916-8f4e-f9e973fef929",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 320.37619779868345,
+        "y": 764.3602944090342
+      },
+      "size": {
+        "w": 391,
+        "h": 105
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Resource Mount URIs\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Required for experimental features like queries and views, and also to have a more robus way of handling external data. Similar to environment variables.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 391,
+      "created": "2026-04-13T02:56:30.103Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:07:47.153Z",
+      "updatedBy": "anon",
+      "plain": "Resource Mount URIs\nRequired for experimental features like queries and views, and also to have a more robus way of handling external data. Similar to environment variables."
+    },
+    {
+      "id": "4f2c9893-57bd-4d5a-a8aa-1f44e93c3df3",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 428.2776092056068,
+        "y": 987.2825447206054
+      },
+      "size": {
+        "w": 347,
+        "h": 69
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Captions\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Being able to add little captions to pictures/video\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-13T13:04:01.740Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:09:59.955Z",
+      "updatedBy": "anon",
+      "plain": "Captions\nBeing able to add little captions to pictures/video"
+    },
+    {
+      "id": "9bd0083e-c4a1-403a-b984-484ebd154d8f",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 952.0140091096271,
+        "y": 956.4401815451872
+      },
+      "size": {
+        "w": 466,
+        "h": 185
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Subcards\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Being able to drag cards into cards like in Pleptica? may be an interesting idea, maybe could play really nice with orgish\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Linked cards\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h3\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Also the idea of pure ref where you can link a card to another so they move together or follow their parents, but please make it more obvious and easy to remove the link.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 466,
+      "created": "2026-04-13T13:04:20.417Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:19:34.084Z",
+      "updatedBy": "anon",
+      "plain": "Subcards\nBeing able to drag cards into cards like in Pleptica? may be an interesting idea, maybe could play really nice with orgish\nLinked cards\nAlso the idea of pure ref where you can link a card to another so they move together or follow their parents, but please make it more obvious and easy to remove the link."
+    },
+    {
+      "id": "2884c8d7-b606-4e74-844b-00b48943f87b",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 970.4041934211291,
+        "y": 613.3566297955488
+      },
+      "size": {
+        "w": 320,
+        "h": 87
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Mind Maps\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Like from Miro, not exactly on canvas, probably as blossoms\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 320,
+      "created": "2026-04-13T13:07:05.820Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:10:02.120Z",
+      "updatedBy": "anon",
+      "plain": "Mind Maps\nLike from Miro, not exactly on canvas, probably as blossoms"
+    },
+    {
+      "id": "31cad508-c5c7-49ec-a5c7-9172d5a4d95f",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 2374.698511002991,
+        "y": 530.8112158404685
+      },
+      "size": {
+        "w": 212,
+        "h": 69
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Lenses and Views\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Absolutely a must for agents\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-13T13:09:19.917Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:10:20.829Z",
+      "updatedBy": "anon",
+      "plain": "Lenses and Views\nAbsolutely a must for agents"
+    },
+    {
+      "id": "96479148-a848-47c2-97a3-474d5d68d96d",
+      "kind": "cluster",
+      "type": null,
+      "label": "Agentic / Query-View work",
+      "children": [
+        "f5baf2d0-f6ea-4a11-97dc-a00aecd645f6",
+        "147acb7c-f0a9-4225-9b57-a6b1c75ca5ee",
+        "31cad508-c5c7-49ec-a5c7-9172d5a4d95f"
+      ],
+      "color": "blue",
+      "autofitToContents": false,
+      "position": {
+        "x": 1484.3771975962495,
+        "y": 470.6345229170812
+      },
+      "size": {
+        "w": 1156,
+        "h": 327
+      },
+      "created": "2026-04-13T13:10:05.442Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:10:20.829Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "8ca2da4e-eda9-4864-bf2b-dded08f7747c",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 523.5179173367002,
+        "y": 1190.0140186918106
+      },
+      "size": {
+        "w": 455,
+        "h": 148
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Night Theme\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"But first I need to extract all variables and find good opposites.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"User skins and themes\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h3\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Possibly as well. We could expose pretty much most things? In this case I would probably need to work together with a themer because I need to know what they need.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 455,
+      "created": "2026-04-13T13:18:39.235Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:20:07.841Z",
+      "updatedBy": "anon",
+      "plain": "Night Theme\nBut first I need to extract all variables and find good opposites.\nUser skins and themes\nPossibly as well. We could expose pretty much most things? In this case I would probably need to work together with a themer because I need to know what they need."
+    }
+  ],
+  "edges": [
+    {
+      "id": "27eedb7f-76d0-4758-b89a-c4d5f44a347c",
+      "from": "f5baf2d0-f6ea-4a11-97dc-a00aecd645f6",
+      "to": "31cad508-c5c7-49ec-a5c7-9172d5a4d95f",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "edgeStyle": {
+        "stroke": {
+          "width": 1.5,
+          "color": {
+            "kind": "token",
+            "value": "foreground"
+          },
+          "dash": "dotted"
+        },
+        "startMarker": "none",
+        "endMarker": "none",
+        "labelColor": {
+          "kind": "token",
+          "value": "foreground"
+        }
+      },
+      "label": "related"
+    }
+  ],
+  "viewport": {
+    "x": 377.0502094499702,
+    "y": 47.51150194318211,
+    "zoom": 0.5688284566114697
+  }
+}
