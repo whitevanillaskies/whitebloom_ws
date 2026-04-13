@@ -404,6 +404,24 @@
       "updatedAt": "2026-04-13T13:17:26.695Z",
       "updatedBy": "anon",
       "plain": "Swiss tools should be generally kept neatly tucked away from the main UI, for example via contextual actions or in the meta palette."
+    },
+    {
+      "id": "3945367e-4bde-4884-9a24-4e7215a93405",
+      "kind": "bud",
+      "type": "com.whitebloom.video",
+      "position": {
+        "x": 2630.609826206199,
+        "y": 1213.0844830116166
+      },
+      "size": {
+        "w": 768,
+        "h": 406
+      },
+      "resource": "wloc:res/recording-2026-04-13_10-00-33.webm",
+      "created": "2026-04-13T13:44:32.590Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:44:52.438Z",
+      "updatedBy": "anon"
     }
   ],
   "edges": [
@@ -437,11 +455,22 @@
       "to": "671a5eaa-8a56-44a7-94d9-340f750be03d",
       "sourceHandle": "top",
       "targetHandle": "bottom"
+    },
+    {
+      "id": "bfef449c-8e70-435b-bf8f-82dee2e70e94",
+      "from": "a3f9b751-957d-467d-bd79-077ce02ecf55",
+      "to": "3945367e-4bde-4884-9a24-4e7215a93405",
+      "sourceHandle": "right",
+      "targetHandle": "left",
+      "label": "actual recording",
+      "labelLayout": {
+        "pathPosition": 0.67
+      }
     }
   ],
   "viewport": {
-    "x": -307.5240331441778,
-    "y": -504.8477846541457,
-    "zoom": 0.7578582832552002
+    "x": -814.4603200792317,
+    "y": -566.0069863956244,
+    "zoom": 0.7578582832551995
   }
 }
