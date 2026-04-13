@@ -115,12 +115,12 @@
       "label": "Open Whitebloom",
       "children": [
         "5db10e46-e174-4a22-8be4-27db05d4881d",
-        "0a7e0b71-adbc-4853-a6a1-76f02745dda9",
         "90a3366f-79a2-4a9c-b600-48c4a44ba142",
         "05b35d99-5773-4571-9620-7f928361b3aa",
         "5e20fd4c-f1ae-4989-917a-6222546f831d",
         "fe8dea69-42c0-4575-8ea7-226355d3f151",
-        "8ad6156f-4135-4cd5-b2c9-9d1476c14d12"
+        "8ad6156f-4135-4cd5-b2c9-9d1476c14d12",
+        "31d64e3a-bdc0-449f-95e2-2afb2c4b449f"
       ],
       "color": "blue",
       "autofitToContents": false,
@@ -134,25 +134,7 @@
       },
       "created": "2026-04-12T19:58:22.897Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-12T20:19:48.367Z",
-      "updatedBy": "anon"
-    },
-    {
-      "id": "0a7e0b71-adbc-4853-a6a1-76f02745dda9",
-      "kind": "bud",
-      "type": null,
-      "position": {
-        "x": 1913.251508861442,
-        "y": 50.237313823418376
-      },
-      "size": {
-        "w": 88,
-        "h": 88
-      },
-      "resource": "file:///D:/slvtte/prj/WHITEBLOOM/code/whitebloom/docs/open_whitebloom.md",
-      "created": "2026-04-12T19:59:34.128Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-12T19:59:46.514Z",
+      "updatedAt": "2026-04-13T13:42:33.916Z",
       "updatedBy": "anon"
     },
     {
@@ -692,6 +674,24 @@
       "createdBy": "anon",
       "updatedAt": "2026-04-12T21:16:06.709Z",
       "updatedBy": "anon"
+    },
+    {
+      "id": "31d64e3a-bdc0-449f-95e2-2afb2c4b449f",
+      "kind": "bud",
+      "type": null,
+      "position": {
+        "x": 1915.432111238706,
+        "y": 64.14136933340859
+      },
+      "size": {
+        "w": 88,
+        "h": 88
+      },
+      "resource": "wloc:res/open_whitebloom.md",
+      "created": "2026-04-13T13:42:30.082Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T13:42:35.077Z",
+      "updatedBy": "anon"
     }
   ],
   "edges": [
@@ -885,8 +885,8 @@
     }
   ],
   "viewport": {
-    "x": -340.6260915152475,
-    "y": -400.61006804865474,
+    "x": -418.6260915152475,
+    "y": 320.38993195134526,
     "zoom": 0.7578582832551992
   }
 }
