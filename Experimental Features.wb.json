@@ -28,8 +28,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 1532.258341535096,
-        "y": 519.1092027036681
+        "x": 2220.258341535096,
+        "y": 525.1092027036681
       },
       "size": {
         "w": 520,
@@ -40,7 +40,7 @@
       "wrapWidth": 520,
       "created": "2026-04-12T21:53:23.512Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:10:20.829Z",
+      "updatedAt": "2026-04-14T03:19:57.906Z",
       "updatedBy": "anon",
       "plain": "Queries and Views\nComposable way of accessing resources in arbitrary locations, databases, etc. and treating them in the same way across multiple domains."
     },
@@ -70,8 +70,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 2101.9559260434144,
-        "y": 654.1519982974747
+        "x": 2789.9559260434144,
+        "y": 660.1519982974747
       },
       "size": {
         "w": 490,
@@ -82,7 +82,7 @@
       "wrapWidth": 490,
       "created": "2026-04-12T21:53:51.325Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:10:20.829Z",
+      "updatedAt": "2026-04-14T03:19:57.906Z",
       "updatedBy": "anon",
       "plain": "Embedded Agent\nBeing able to control an agent from the app, where the agent has access to the HEP layer and can work on the board."
     },
@@ -196,8 +196,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 2374.698511002991,
-        "y": 530.8112158404685
+        "x": 3062.698511002991,
+        "y": 536.8112158404685
       },
       "size": {
         "w": 212,
@@ -208,7 +208,7 @@
       "wrapWidth": null,
       "created": "2026-04-13T13:09:19.917Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:10:20.829Z",
+      "updatedAt": "2026-04-14T03:19:57.906Z",
       "updatedBy": "anon",
       "plain": "Lenses and Views\nAbsolutely a must for agents"
     },
@@ -220,21 +220,24 @@
       "children": [
         "f5baf2d0-f6ea-4a11-97dc-a00aecd645f6",
         "147acb7c-f0a9-4225-9b57-a6b1c75ca5ee",
-        "31cad508-c5c7-49ec-a5c7-9172d5a4d95f"
+        "31cad508-c5c7-49ec-a5c7-9172d5a4d95f",
+        "257a4f2a-bba6-42c6-af6b-a17b562566df",
+        "3e6ee530-2293-490f-b2b2-204943b9c03d",
+        "1f73952d-8b5b-4c13-a11c-e9a9e7e55c68"
       ],
       "color": "blue",
       "autofitToContents": false,
       "position": {
-        "x": 1484.3771975962495,
-        "y": 470.6345229170812
+        "x": 2172.3771975962495,
+        "y": 476.6345229170812
       },
       "size": {
-        "w": 1156,
-        "h": 327
+        "w": 1172,
+        "h": 547
       },
       "created": "2026-04-13T13:10:05.442Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:10:20.829Z",
+      "updatedAt": "2026-04-14T03:20:00.930Z",
       "updatedBy": "anon"
     },
     {
@@ -257,6 +260,149 @@
       "updatedAt": "2026-04-13T13:20:07.841Z",
       "updatedBy": "anon",
       "plain": "Night Theme\nBut first I need to extract all variables and find good opposites.\nUser skins and themes\nPossibly as well. We could expose pretty much most things? In this case I would probably need to work together with a themer because I need to know what they need."
+    },
+    {
+      "id": "3ab3d249-1f95-4eed-b01e-639734f1d040",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1490.7370732789568,
+        "y": 1010.5856060869783
+      },
+      "size": {
+        "w": 480,
+        "h": 105
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Implicit links and Pleptica-like perspectives\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Being able to link nodes without them showing up as an actual edge, and then being able to click on some icon like an eye and highlighting all nodes that are internally connected.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 480,
+      "created": "2026-04-13T14:24:09.626Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T14:24:54.372Z",
+      "updatedBy": "anon",
+      "plain": "Implicit links and Pleptica-like perspectives\nBeing able to link nodes without them showing up as an actual edge, and then being able to click on some icon like an eye and highlighting all nodes that are internally connected."
+    },
+    {
+      "id": "25a66606-b436-4464-ac72-6cce5c1992d9",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1113.5858860331812,
+        "y": 1332.9033227758075
+      },
+      "size": {
+        "w": 310,
+        "h": 150
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Encrypted Crates\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Locked down workspaces that are decrypted when opening them to some staging directory, then on app close the entire staged dir is encrypted and crated back.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 310,
+      "created": "2026-04-13T14:52:58.705Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T14:53:50.141Z",
+      "updatedBy": "anon",
+      "plain": "Encrypted Crates\nLocked down workspaces that are decrypted when opening them to some staging directory, then on app close the entire staged dir is encrypted and crated back."
+    },
+    {
+      "id": "37916ff6-2cb5-4505-9cdc-3b1e878ad765",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 23.672351734772462,
+        "y": 1116.5040254090534
+      },
+      "size": {
+        "w": 382,
+        "h": 105
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Documentation adapters\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Being able to \\\"wire up\\\" repositories like docusaurus, then being able to browse and link to pages (even edit them quickly?)\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 382,
+      "created": "2026-04-13T17:03:04.254Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T17:03:43.455Z",
+      "updatedBy": "anon",
+      "plain": "Documentation adapters\nBeing able to \"wire up\" repositories like docusaurus, then being able to browse and link to pages (even edit them quickly?)"
+    },
+    {
+      "id": "e4bc4af9-f239-40e2-bb8e-572339e454c9",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 156.94265072283454,
+        "y": 1351.376433526628
+      },
+      "size": {
+        "w": 391,
+        "h": 39
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"LLM usage tracker as a widget node. Old rainmeter style.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-13T17:51:50.936Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T17:52:03.469Z",
+      "updatedBy": "anon",
+      "plain": "LLM usage tracker as a widget node. Old rainmeter style."
+    },
+    {
+      "id": "257a4f2a-bba6-42c6-af6b-a17b562566df",
+      "kind": "bud",
+      "type": "com.whitebloom.webpagebloom",
+      "position": {
+        "x": 2272.650210179104,
+        "y": 654.738471040063
+      },
+      "size": {
+        "w": 88,
+        "h": 88
+      },
+      "resource": "https://chat.deepseek.com/share/4ka9nywwbwxv8ngi6y",
+      "label": "Deepseek - streaming federated queries",
+      "created": "2026-04-14T03:12:55.807Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-14T03:19:57.906Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "3e6ee530-2293-490f-b2b2-204943b9c03d",
+      "kind": "bud",
+      "type": "com.whitebloom.webpagebloom",
+      "position": {
+        "x": 2395.786039096802,
+        "y": 660.5201882939461
+      },
+      "size": {
+        "w": 88,
+        "h": 88
+      },
+      "resource": "https://grok.com/share/bGVnYWN5_2a8c0aec-d14d-4be4-a2fe-72b46d068003",
+      "label": "Grok - HomoQL",
+      "created": "2026-04-14T03:13:36.923Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-14T03:20:36.722Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "1f73952d-8b5b-4c13-a11c-e9a9e7e55c68",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 2450.0168647379833,
+        "y": 814.0814179120439
+      },
+      "size": {
+        "w": 219,
+        "h": 147
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"From a query we could get pictures and build a pureref board. Or, we could make our own pureref now that we know how it works more or less, with an open standard. OpenRef.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 219,
+      "created": "2026-04-14T03:20:00.930Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-14T03:20:57.438Z",
+      "updatedBy": "anon",
+      "plain": "From a query we could get pictures and build a pureref board. Or, we could make our own pureref now that we know how it works more or less, with an open standard. OpenRef."
     }
   ],
   "edges": [
@@ -286,8 +432,8 @@
     }
   ],
   "viewport": {
-    "x": 377.0502094499702,
-    "y": 47.51150194318211,
-    "zoom": 0.5688284566114697
+    "x": -827.7655750566137,
+    "y": -183.95834580878,
+    "zoom": 0.7578582832551992
   }
 }

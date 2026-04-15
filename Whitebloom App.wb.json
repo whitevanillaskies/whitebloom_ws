@@ -202,8 +202,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 1276.2087086553754,
-        "y": 1016.532603604151
+        "x": 1279.6548037203663,
+        "y": 1021.127397024139
       },
       "size": {
         "w": 473,
@@ -214,7 +214,7 @@
       "wrapWidth": 473,
       "created": "2026-04-12T21:20:40.611Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-12T21:32:54.356Z",
+      "updatedAt": "2026-04-14T21:15:08.436Z",
       "updatedBy": "anon",
       "plain": "The Swiss Toolset\nA subset of features in the app follow what I call the Swiss Tool philosophy. A Swiss Tool does not replace a proper specialized tool, but it can nonetheless be practical.\nWhat is a Swiss Tool in this app, then? It's a feature that is highly specialized, hidden away, and very fast and easy to use. It's also highly opinionated in how it's supposed to be used so it doesn't support many options.\nThe main example of this philosophy, and the tool that made me come up with the concept of Swiss Tools, is the screen recorder.\nThe screen recorder targets one and only one: wanting to record a session without taking up too much space, with support for microphone audio. Thus, the screen recorder takes no configuration. You just start recording and it does its own little thing.\nThe primary reason for this is simple: users may not want to launch OBS to do something as simple as that, so we provide a way for them to do it. However, we could never beat OBS at their own game. OBS is amazing software, so if you want OBS features you use OBS. Just like if you need to build a PC you're most likely going to look for a proper screwdriver rather than use a Swiss Tool. And yet, if you go camping you won't take the bulky screwdriver with you, but you might take the Swiss Tool.\nThus, a Swiss Tool is a very small feature that addresses one very particular use case and is lightweight, easy and fast to use. It's a feature that requires no thought from the user."
     },
@@ -223,8 +223,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 1774.4095580601022,
-        "y": 1026.196228992118
+        "x": 1777.855653125093,
+        "y": 1030.791022412106
       },
       "size": {
         "w": 369,
@@ -235,7 +235,7 @@
       "wrapWidth": 369,
       "created": "2026-04-12T21:23:07.152Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-12T21:32:51.907Z",
+      "updatedAt": "2026-04-14T21:15:08.436Z",
       "updatedBy": "anon",
       "plain": "Screen Recorder\nA very compact tool to record a session to disk, and a perfect example of a Swiss Tool. It's easy to use, tucked away behind the meta palette, and so opinionated that the only option is the file name, and even that comes with a default using a timestamp, so you may not even touch it.\nTry it yourself\nUse alt-x to bring up the meta palette, then search for screen.start-recording. No configuration, no hassle, one command and it's up. F8 to stop recording, or screen.stop-recording from the meta palette."
     },
@@ -253,8 +253,8 @@
       "color": "blue",
       "autofitToContents": false,
       "position": {
-        "x": 1191.0218247373923,
-        "y": 954.237780816817
+        "x": 1194.4679198023832,
+        "y": 958.832574236805
       },
       "size": {
         "w": 1179,
@@ -262,7 +262,7 @@
       },
       "created": "2026-04-12T21:23:16.235Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:17:13.555Z",
+      "updatedAt": "2026-04-14T21:15:08.436Z",
       "updatedBy": "anon"
     },
     {
@@ -291,8 +291,8 @@
       "kind": "bud",
       "type": "com.whitebloom.boardbloom",
       "position": {
-        "x": 1364.542659590738,
-        "y": 721.3479772866771
+        "x": 1239.183378476096,
+        "y": 686.5259547548321
       },
       "size": {
         "w": 196,
@@ -302,7 +302,7 @@
       "label": "Experimental Features",
       "created": "2026-04-12T21:44:26.432Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-12T21:44:37.127Z",
+      "updatedAt": "2026-04-13T13:49:50.140Z",
       "updatedBy": "anon"
     },
     {
@@ -310,8 +310,8 @@
       "kind": "bud",
       "type": "com.whitebloom.boardbloom",
       "position": {
-        "x": 1618.743424073205,
-        "y": 723.0890784132694
+        "x": 1493.3841429585632,
+        "y": 688.2670558814244
       },
       "size": {
         "w": 196,
@@ -321,7 +321,7 @@
       "label": "Features Backlog",
       "created": "2026-04-12T21:44:32.142Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-12T21:44:37.127Z",
+      "updatedAt": "2026-04-13T13:49:50.140Z",
       "updatedBy": "anon"
     },
     {
@@ -371,8 +371,8 @@
       "kind": "bud",
       "type": "com.whitebloom.image",
       "position": {
-        "x": 1781.1315757597274,
-        "y": 1355.5996703172007
+        "x": 1784.5776708247183,
+        "y": 1360.1944637371887
       },
       "size": {
         "w": 518,
@@ -381,7 +381,7 @@
       "resource": "wloc:res/screen_startrecording.jpg",
       "created": "2026-04-13T13:02:30.283Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:17:17.509Z",
+      "updatedAt": "2026-04-14T21:15:08.436Z",
       "updatedBy": "anon"
     },
     {
@@ -389,8 +389,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 1768.624228040485,
-        "y": 1478.7602043932745
+        "x": 1773.5860396719863,
+        "y": 1483.3549978132626
       },
       "size": {
         "w": 505,
@@ -401,7 +401,7 @@
       "wrapWidth": 505,
       "created": "2026-04-13T13:16:18.556Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:17:26.695Z",
+      "updatedAt": "2026-04-14T21:15:08.436Z",
       "updatedBy": "anon",
       "plain": "Swiss tools should be generally kept neatly tucked away from the main UI, for example via contextual actions or in the meta palette."
     },
@@ -410,8 +410,8 @@
       "kind": "bud",
       "type": "com.whitebloom.video",
       "position": {
-        "x": 2630.609826206199,
-        "y": 1213.0844830116166
+        "x": 2628.312429496205,
+        "y": 1218.8279747866018
       },
       "size": {
         "w": 768,
@@ -420,7 +420,7 @@
       "resource": "wloc:res/recording-2026-04-13_10-00-33.webm",
       "created": "2026-04-13T13:44:32.590Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:44:52.438Z",
+      "updatedAt": "2026-04-14T21:15:47.221Z",
       "updatedBy": "anon"
     }
   ],
@@ -469,8 +469,8 @@
     }
   ],
   "viewport": {
-    "x": -814.4603200792317,
-    "y": -566.0069863956244,
-    "zoom": 0.7578582832551995
+    "x": -689.4727774700386,
+    "y": -507.8925404612057,
+    "zoom": 0.7578582832552003
   }
 }

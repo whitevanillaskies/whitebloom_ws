@@ -115,7 +115,6 @@
       "label": "Open Whitebloom",
       "children": [
         "5db10e46-e174-4a22-8be4-27db05d4881d",
-        "90a3366f-79a2-4a9c-b600-48c4a44ba142",
         "05b35d99-5773-4571-9620-7f928361b3aa",
         "5e20fd4c-f1ae-4989-917a-6222546f831d",
         "fe8dea69-42c0-4575-8ea7-226355d3f151",
@@ -136,27 +135,6 @@
       "createdBy": "anon",
       "updatedAt": "2026-04-13T13:42:33.916Z",
       "updatedBy": "anon"
-    },
-    {
-      "id": "90a3366f-79a2-4a9c-b600-48c4a44ba142",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": 1898.5848421947755,
-        "y": 12.903980490085093
-      },
-      "size": {
-        "w": 112,
-        "h": 39
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Current Spec\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "auto",
-      "wrapWidth": null,
-      "created": "2026-04-12T19:59:48.378Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-12T19:59:58.152Z",
-      "updatedBy": "anon",
-      "plain": "Current Spec"
     },
     {
       "id": "05b35d99-5773-4571-9620-7f928361b3aa",
@@ -576,7 +554,8 @@
         "df1d9b99-67ed-4f72-a951-72c51107c6f6",
         "154c4c68-ff7a-4d6b-b8c6-d3fa1ac7b613",
         "13bcc200-c3bb-4c61-b363-41e22717a598",
-        "2826e637-9e0d-479a-99fa-cfaafe0bd0ad"
+        "2826e637-9e0d-479a-99fa-cfaafe0bd0ad",
+        "cd2570c2-d114-4fd7-a5d1-4ff917681ead"
       ],
       "color": "blue",
       "autofitToContents": false,
@@ -585,12 +564,12 @@
         "y": 1148.3637303123305
       },
       "size": {
-        "w": 1913,
-        "h": 705
+        "w": 1918,
+        "h": 919
       },
       "created": "2026-04-12T20:58:24.515Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-12T21:14:46.061Z",
+      "updatedAt": "2026-04-13T17:31:20.476Z",
       "updatedBy": "anon"
     },
     {
@@ -680,8 +659,8 @@
       "kind": "bud",
       "type": null,
       "position": {
-        "x": 1915.432111238706,
-        "y": 64.14136933340859
+        "x": 1856.2346729345697,
+        "y": 29.319346801563654
       },
       "size": {
         "w": 88,
@@ -690,8 +669,29 @@
       "resource": "wloc:res/open_whitebloom.md",
       "created": "2026-04-13T13:42:30.082Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:42:35.077Z",
+      "updatedAt": "2026-04-13T17:30:44.455Z",
       "updatedBy": "anon"
+    },
+    {
+      "id": "cd2570c2-d114-4fd7-a5d1-4ff917681ead",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1507.297514697628,
+        "y": 1740.734010090209
+      },
+      "size": {
+        "w": 448,
+        "h": 187
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Agentic Views and Lenses\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h1\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"A view is an adapter for agents when the data is either a binary blob or requires some sort of specific process to access, such as requesting it from an API or database.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Lenses are prompts and skills for agents to interpret the data in one specific way. We may have, for example, a product designer lens, and a security analyst lens, giving a different prompt and set of skills/tools to each.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 448,
+      "created": "2026-04-13T17:31:20.476Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T17:33:16.784Z",
+      "updatedBy": "anon",
+      "plain": "Agentic Views and Lenses\nA view is an adapter for agents when the data is either a binary blob or requires some sort of specific process to access, such as requesting it from an API or database.\nLenses are prompts and skills for agents to interpret the data in one specific way. We may have, for example, a product designer lens, and a security analyst lens, giving a different prompt and set of skills/tools to each."
     }
   ],
   "edges": [
@@ -885,8 +885,8 @@
     }
   ],
   "viewport": {
-    "x": -418.6260915152475,
-    "y": 320.38993195134526,
-    "zoom": 0.7578582832551992
+    "x": -124.80643174817828,
+    "y": -531.8080981171044,
+    "zoom": 0.5743491774985179
   }
 }

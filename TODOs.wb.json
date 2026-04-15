@@ -28,8 +28,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 288.24268720919537,
-        "y": 607.8484796964764
+        "x": 281.35049707921314,
+        "y": 612.4432731164646
       },
       "size": {
         "w": 340,
@@ -40,7 +40,7 @@
       "wrapWidth": 340,
       "created": "2026-04-12T21:42:23.523Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:25:56.955Z",
+      "updatedAt": "2026-04-13T14:39:07.595Z",
       "updatedBy": "anon",
       "plain": "Undo / Redo\nWe have support for a history stack, we just need to make all commands implement undo functionality."
     },
@@ -49,8 +49,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 668.5627559827686,
-        "y": 649.7407551634443
+        "x": 661.6705658527865,
+        "y": 654.3355485834326
       },
       "size": {
         "w": 328,
@@ -61,7 +61,7 @@
       "wrapWidth": 328,
       "created": "2026-04-12T21:42:28.162Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:26:00.703Z",
+      "updatedAt": "2026-04-13T14:39:07.595Z",
       "updatedBy": "anon",
       "plain": "Ink erasing\nWe can erase strokes via undo, but we need both an eraser tool and a way to clear the whole layer (undoable)"
     },
@@ -99,21 +99,30 @@
         "c3e7f2d4-5896-49b5-8b28-cc0e8a867e67",
         "adcb25bf-b16f-4c3a-9920-33c5032b065e",
         "3b9c8f44-4530-4f6e-9ba8-aeadc16cc1e2",
-        "5bb1d616-a78f-4a88-8cd7-3754241f3205"
+        "5bb1d616-a78f-4a88-8cd7-3754241f3205",
+        "635b6f8f-c3af-4431-a58e-f740f9379fc4",
+        "4e84d954-52d6-428b-8d2a-128fa1c5cb54",
+        "abdb2307-408e-4796-ab5a-cf9c020518aa",
+        "bc8efc00-823f-47e6-8fa7-cd0428a12c37",
+        "1e8a11c8-a324-492c-b83b-4976aa67fd5b",
+        "0dc5fe4d-f73a-474d-9bb0-b95d0b8fff34",
+        "f94d29c1-94de-4b5b-a403-b1210f9c39a8",
+        "03737984-87d9-45ba-a195-a409c4563824",
+        "919f32c6-b52b-4cf2-8f16-d2e8d6e984c3"
       ],
       "color": "blue",
       "autofitToContents": false,
       "position": {
-        "x": 139.83889823993673,
-        "y": 545.4101109397192
+        "x": -431.05329189004556,
+        "y": 550.0049043597074
       },
       "size": {
-        "w": 900,
-        "h": 831
+        "w": 1464,
+        "h": 1103
       },
       "created": "2026-04-12T21:42:47.616Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:25:44.529Z",
+      "updatedAt": "2026-04-13T17:09:02.869Z",
       "updatedBy": "anon"
     },
     {
@@ -126,7 +135,8 @@
         "cfc08ed6-aca9-410a-bc19-9a4cd2da99cd",
         "58fa9a14-1146-44c9-8b9f-ea552a2773bb",
         "162d25fe-0be3-4257-b3fa-585b74a01f75",
-        "ce86f9fd-51f9-4173-b46b-5488c1a02b7e"
+        "ce86f9fd-51f9-4173-b46b-5488c1a02b7e",
+        "0a649c8c-8342-48a8-9e17-27191ea0ff18"
       ],
       "color": "blue",
       "autofitToContents": false,
@@ -140,7 +150,7 @@
       },
       "created": "2026-04-12T21:42:56.809Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:15:51.287Z",
+      "updatedAt": "2026-04-14T21:27:41.203Z",
       "updatedBy": "anon"
     },
     {
@@ -226,7 +236,8 @@
         "0f55e001-e4c3-458e-9302-7c13fdc2ab1e",
         "d2cae3dd-8464-40e6-889c-d3b8ec88ee92",
         "7bf304b3-99bc-43c7-9d86-ea7539ff86ca",
-        "adaca117-271d-47f4-b106-64277b2d7c38"
+        "adaca117-271d-47f4-b106-64277b2d7c38",
+        "253d0527-6bef-43da-b19b-6939f8e83d69"
       ],
       "color": "blue",
       "autofitToContents": false,
@@ -235,12 +246,12 @@
         "y": 552.594366953294
       },
       "size": {
-        "w": 1552,
-        "h": 792
+        "w": 1863,
+        "h": 855
       },
       "created": "2026-04-12T21:47:43.873Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:26:20.055Z",
+      "updatedAt": "2026-04-13T17:07:58.849Z",
       "updatedBy": "anon"
     },
     {
@@ -269,8 +280,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 223.44179622278915,
-        "y": 778.6846126958059
+        "x": 207.31305071739664,
+        "y": 771.4038349188381
       },
       "size": {
         "w": 457,
@@ -281,7 +292,7 @@
       "wrapWidth": 457,
       "created": "2026-04-12T21:48:30.612Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:25:58.685Z",
+      "updatedAt": "2026-04-13T14:39:41.360Z",
       "updatedBy": "anon",
       "plain": "Ink Colors and Eraser\nWe need a contextual toolbar for the tool itself. The ink tool should activate that toolbar, both in the canvas and in the PDF Viewer.\nOptions: stroke width and color, optionally pressure sensitivity."
     },
@@ -290,8 +301,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 749.8971068155804,
-        "y": 838.0430549481827
+        "x": 731.1293454886421,
+        "y": 813.6086743311673
       },
       "size": {
         "w": 125,
@@ -302,7 +313,7 @@
       "wrapWidth": null,
       "created": "2026-04-12T21:51:40.152Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:25:59.379Z",
+      "updatedAt": "2026-04-13T14:39:07.595Z",
       "updatedBy": "anon",
       "plain": "Copypaste"
     },
@@ -349,8 +360,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 216.4155716836752,
-        "y": 938.5713518072196
+        "x": -12.585278416126428,
+        "y": 978.792858818076
       },
       "size": {
         "w": 378,
@@ -361,7 +372,7 @@
       "wrapWidth": 378,
       "created": "2026-04-12T21:55:13.309Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:25:57.987Z",
+      "updatedAt": "2026-04-13T14:39:08.381Z",
       "updatedBy": "anon",
       "plain": "Exporting\nDifferent ways of exporting our work.\nExporting Annotated PDFs\nBaking the annotations into the PDFs, possibly creating a copy or telling the user this will override their PDFs\nExporting the canvas\nAs a picture, most likely."
     },
@@ -370,8 +381,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 661.7922615934135,
-        "y": 1004.0902582801458
+        "x": 681.2902296788892,
+        "y": 1064.1043839525955
       },
       "size": {
         "w": 322,
@@ -382,7 +393,7 @@
       "wrapWidth": 322,
       "created": "2026-04-12T21:56:02.689Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:25:59.911Z",
+      "updatedAt": "2026-04-13T14:39:07.595Z",
       "updatedBy": "anon",
       "plain": "PDF page extraction\nA command that extracts pages from a PDF, like Microsoft Whiteboard. Should automatically group them in a Set so they're easy to find by the user."
     },
@@ -412,8 +423,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 1573.6457940574194,
-        "y": 646.1599453880971
+        "x": 1643.6457940574194,
+        "y": 668.1599453880971
       },
       "size": {
         "w": 265,
@@ -424,7 +435,7 @@
       "wrapWidth": 265,
       "created": "2026-04-12T21:57:38.696Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:27:09.230Z",
+      "updatedAt": "2026-04-13T17:08:17.912Z",
       "updatedBy": "anon",
       "plain": "It doesn't feel right how by default MicaWindow will show up so close to the top left corner. Should be more centered, or even look for empty space."
     },
@@ -475,8 +486,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 1885.5520670224012,
-        "y": 687.3586363281204
+        "x": 2011.5520670224012,
+        "y": 693.3586363281204
       },
       "size": {
         "w": 187,
@@ -487,7 +498,7 @@
       "wrapWidth": 187,
       "created": "2026-04-12T21:58:59.033Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-12T22:01:04.981Z",
+      "updatedAt": "2026-04-13T17:08:17.337Z",
       "updatedBy": "anon",
       "plain": "The canvas isn't remembering the ink overlay toggle, so every time you open a whiteboard you get to see the ink overlay even if you disabled it last time."
     },
@@ -559,8 +570,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 1440.9652991360463,
-        "y": 301.6760349504612
+        "x": 1459.4384098868668,
+        "y": 330.7052089874648
       },
       "size": {
         "w": 186,
@@ -571,7 +582,7 @@
       "wrapWidth": 186,
       "created": "2026-04-13T13:10:31.356Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:15:51.287Z",
+      "updatedAt": "2026-04-13T14:18:41.989Z",
       "updatedBy": "anon",
       "plain": "When the hand tool is on, LMB (M1) will drag clusters, this is wrong, it should always simply plan the canvas"
     },
@@ -580,8 +591,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 1303.1056152962497,
-        "y": 644.5633687610809
+        "x": 1365.1056152962497,
+        "y": 650.5633687610809
       },
       "size": {
         "w": 218,
@@ -592,7 +603,7 @@
       "wrapWidth": null,
       "created": "2026-04-13T13:11:13.191Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:11:19.459Z",
+      "updatedAt": "2026-04-13T17:08:18.703Z",
       "updatedBy": "anon",
       "plain": "Some tools missing shortcuts"
     },
@@ -601,8 +612,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 2136.242756320646,
-        "y": 657.5075296873166
+        "x": 2304.242756320646,
+        "y": 689.5075296873166
       },
       "size": {
         "w": 413,
@@ -613,7 +624,7 @@
       "wrapWidth": 413,
       "created": "2026-04-13T13:12:05.531Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:27:08.314Z",
+      "updatedAt": "2026-04-13T17:08:16.784Z",
       "updatedBy": "anon",
       "plain": "Shortcuts aren't exactly working right in the meta finder, I think. The search feature looks good, but what we need is a strict match.\nIf we have Arr and rr then if the user types rr because that's an strict match it should only select that one.\nAlso all shortcuts should be lowercased and case insensitive during search."
     },
@@ -643,8 +654,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 1694.4164649795916,
-        "y": 179.10530140288458
+        "x": 1683.8604016934082,
+        "y": 193.6198884213864
       },
       "size": {
         "w": 211,
@@ -655,7 +666,7 @@
       "wrapWidth": 211,
       "created": "2026-04-13T13:14:30.535Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:15:51.287Z",
+      "updatedAt": "2026-04-13T14:18:41.171Z",
       "updatedBy": "anon",
       "plain": "Eraser undo/redo is bugged on the history stack. If you just draw it's working, but mixing drawing and erasing messes it up."
     },
@@ -685,8 +696,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 184.48374854487105,
-        "y": 1184.1495129321374
+        "x": 177.59155841488885,
+        "y": 1188.7443063521257
       },
       "size": {
         "w": 362,
@@ -697,7 +708,7 @@
       "wrapWidth": 362,
       "created": "2026-04-13T13:21:52.124Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:25:46.998Z",
+      "updatedAt": "2026-04-13T14:39:07.595Z",
       "updatedBy": "anon",
       "plain": "Toolbar Component\nA toolbar we can use for exampel in the PDF viewer and in other editors like that, inspired by the Apple toolbars."
     },
@@ -706,8 +717,8 @@
       "kind": "bud",
       "type": "com.whitebloom.image",
       "position": {
-        "x": 199.21843111768044,
-        "y": 1293.1926665784888
+        "x": 192.32624098769824,
+        "y": 1297.787459998477
       },
       "size": {
         "w": 768,
@@ -716,7 +727,7 @@
       "resource": "wloc:res/pages_toolbar.jpg",
       "created": "2026-04-13T13:25:36.705Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:25:45.782Z",
+      "updatedAt": "2026-04-13T14:39:07.595Z",
       "updatedBy": "anon"
     },
     {
@@ -739,12 +750,243 @@
       "updatedAt": "2026-04-13T13:26:45.878Z",
       "updatedBy": "anon",
       "plain": "Possibly being able to tab to complete commands from inside the palette in meta mode, without closing the palette. Esc always closes."
+    },
+    {
+      "id": "635b6f8f-c3af-4431-a58e-f740f9379fc4",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 539.713632033322,
+        "y": 1208.6878650125582
+      },
+      "size": {
+        "w": 320,
+        "h": 75
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"color: #6b7280;\",\"text\":\"Something where the buttons look engraved on glass, with indicators instead of highlighted frames\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"color: #6b7280;\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 320,
+      "created": "2026-04-13T14:05:03.533Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T14:39:07.595Z",
+      "updatedBy": "anon",
+      "plain": "Something where the buttons look engraved on glass, with indicators instead of highlighted frames"
+    },
+    {
+      "id": "4e84d954-52d6-428b-8d2a-128fa1c5cb54",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 779.2905832108984,
+        "y": 884.0364415648156
+      },
+      "size": {
+        "w": 168,
+        "h": 69
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Text Controls\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Align left, center, right\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-13T14:17:28.985Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T14:39:07.595Z",
+      "updatedBy": "anon",
+      "plain": "Text Controls\nAlign left, center, right"
+    },
+    {
+      "id": "abdb2307-408e-4796-ab5a-cf9c020518aa",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 564.2107937549168,
+        "y": 922.3021709772293
+      },
+      "size": {
+        "w": 250,
+        "h": 123
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Window Names\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"To find the right instance of the app when running multiple windows. Name of workspace and board\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 250,
+      "created": "2026-04-13T14:18:00.829Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T14:39:07.595Z",
+      "updatedBy": "anon",
+      "plain": "Window Names\nTo find the right instance of the app when running multiple windows. Name of workspace and board"
+    },
+    {
+      "id": "bc8efc00-823f-47e6-8fa7-cd0428a12c37",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": -63.849620438303006,
+        "y": 741.3459382820536
+      },
+      "size": {
+        "w": 259,
+        "h": 39
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Being able to link clusters like nodes\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-13T14:26:08.253Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T14:39:39.138Z",
+      "updatedBy": "anon",
+      "plain": "Being able to link clusters like nodes"
+    },
+    {
+      "id": "1e8a11c8-a324-492c-b83b-4976aa67fd5b",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": -57.941915636495935,
+        "y": 863.1815821478638
+      },
+      "size": {
+        "w": 262,
+        "h": 87
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Edge editing\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Being able to drag the endpoints of already drawn edges\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 262,
+      "created": "2026-04-13T14:38:13.656Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T14:39:40.001Z",
+      "updatedBy": "anon",
+      "plain": "Edge editing\nBeing able to drag the endpoints of already drawn edges"
+    },
+    {
+      "id": "0dc5fe4d-f73a-474d-9bb0-b95d0b8fff34",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 294.4814922398099,
+        "y": 898.092104169501
+      },
+      "size": {
+        "w": 200,
+        "h": 111
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Connecting nodes to nodes (not handles) and letting the edge pick the best cardinal handle based on positioning.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 200,
+      "created": "2026-04-13T14:38:45.348Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T14:39:07.595Z",
+      "updatedBy": "anon",
+      "plain": "Connecting nodes to nodes (not handles) and letting the edge pick the best cardinal handle based on positioning."
+    },
+    {
+      "id": "f94d29c1-94de-4b5b-a403-b1210f9c39a8",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 34.87566401048035,
+        "y": 610.9175154202426
+      },
+      "size": {
+        "w": 240,
+        "h": 111
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Locking boards, nodes, and clusters. Locking a cluster wouldn't mean you can't edit its contents I think, or maybe soft lock and hard lock\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 240,
+      "created": "2026-04-13T14:39:10.059Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T14:39:38.138Z",
+      "updatedBy": "anon",
+      "plain": "Locking boards, nodes, and clusters. Locking a cluster wouldn't mean you can't edit its contents I think, or maybe soft lock and hard lock"
+    },
+    {
+      "id": "03737984-87d9-45ba-a195-a409c4563824",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": -221.98480562285957,
+        "y": 1276.8782035622867
+      },
+      "size": {
+        "w": 306,
+        "h": 75
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"A mode like alt click drag so that we can select nodes inside a cluster without moving the cluster.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 306,
+      "created": "2026-04-13T14:43:52.455Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T14:44:09.024Z",
+      "updatedBy": "anon",
+      "plain": "A mode like alt click drag so that we can select nodes inside a cluster without moving the cluster."
+    },
+    {
+      "id": "253d0527-6bef-43da-b19b-6939f8e83d69",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 2499.1031981936712,
+        "y": 982.9330987513436
+      },
+      "size": {
+        "w": 355,
+        "h": 112
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"While the node handles are hidden, you can still drag from them. This is either good or bad, but if we're going to lean on this approach we better make it work better.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"I do kind of like using it now that I realized it works\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 355,
+      "created": "2026-04-13T17:07:29.592Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T17:11:31.902Z",
+      "updatedBy": "anon",
+      "plain": "While the node handles are hidden, you can still drag from them. This is either good or bad, but if we're going to lean on this approach we better make it work better.\nI do kind of like using it now that I realized it works"
+    },
+    {
+      "id": "919f32c6-b52b-4cf2-8f16-d2e8d6e984c3",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 550.4272642641602,
+        "y": 1347.9491160659425
+      },
+      "size": {
+        "w": 285,
+        "h": 39
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"color: #6b7280;\",\"text\":\"Equal dynamic spacers between groups\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"color: #6b7280;\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-13T17:09:02.869Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-13T17:09:15.371Z",
+      "updatedBy": "anon",
+      "plain": "Equal dynamic spacers between groups"
+    },
+    {
+      "id": "0a649c8c-8342-48a8-9e17-27191ea0ff18",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1700.6725669652105,
+        "y": 353.5538447712885
+      },
+      "size": {
+        "w": 214,
+        "h": 111
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Snuggify text makes it long along one line. We need to only snuggify toward compression. Snuggify can't expand.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 214,
+      "created": "2026-04-14T21:27:41.203Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-14T21:28:15.988Z",
+      "updatedBy": "anon",
+      "plain": "Snuggify text makes it long along one line. We need to only snuggify toward compression. Snuggify can't expand."
     }
   ],
   "edges": [],
   "viewport": {
-    "x": 255.84686432616257,
-    "y": 160.61831235687816,
-    "zoom": 0.5
+    "x": -88.03371029509503,
+    "y": 190.86693118827503,
+    "zoom": 0.6597539553864472
   }
 }

@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "materials": [
+    {
+      "key": "https://chat.deepseek.com/share/4ka9nywwbwxv8ngi6y",
+      "displayName": "Deepseek - streaming federated queries"
+    },
+    {
+      "key": "https://grok.com/share/bGVnYWN5_2a8c0aec-d14d-4be4-a2fe-72b46d068003",
+      "displayName": "Grok - HomoQL"
+    }
+  ]
+}
