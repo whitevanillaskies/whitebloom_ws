@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "id": "0c74a42ccd2a31b26f1b5ac15b9ae5de1836b77c",
+  "target": {
+    "surfaceType": "board",
+    "coordinateSpace": "board-world",
+    "resource": "wloc:TODOs.wb.json",
+    "targetId": "board:wloc:TODOs.wb.json"
+  },
+  "strokes": [],
+  "createdAt": "2026-04-16T14:24:41.405Z",
+  "updatedAt": "2026-04-16T14:24:45.902Z"
+}

@@ -6,6 +6,10 @@
       "displayName": "Deepseek - streaming federated queries"
     },
     {
+      "key": "https://chatgpt.com/share/69e0d4ab-5b30-83e9-8504-92a64a3087bf",
+      "displayName": "GPT - query system"
+    },
+    {
       "key": "https://grok.com/share/bGVnYWN5_2a8c0aec-d14d-4be4-a2fe-72b46d068003",
       "displayName": "Grok - HomoQL"
     }

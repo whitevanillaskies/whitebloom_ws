@@ -28,8 +28,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 2220.258341535096,
-        "y": 525.1092027036681
+        "x": 2164.8390092826353,
+        "y": 530.3872343467596
       },
       "size": {
         "w": 520,
@@ -40,7 +40,7 @@
       "wrapWidth": 520,
       "created": "2026-04-12T21:53:23.512Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-14T03:19:57.906Z",
+      "updatedAt": "2026-04-16T12:23:25.030Z",
       "updatedBy": "anon",
       "plain": "Queries and Views\nComposable way of accessing resources in arbitrary locations, databases, etc. and treating them in the same way across multiple domains."
     },
@@ -70,8 +70,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 2789.9559260434144,
-        "y": 660.1519982974747
+        "x": 2734.5365937909537,
+        "y": 665.4300299405662
       },
       "size": {
         "w": 490,
@@ -82,7 +82,7 @@
       "wrapWidth": 490,
       "created": "2026-04-12T21:53:51.325Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-14T03:19:57.906Z",
+      "updatedAt": "2026-04-16T12:23:25.030Z",
       "updatedBy": "anon",
       "plain": "Embedded Agent\nBeing able to control an agent from the app, where the agent has access to the HEP layer and can work on the board."
     },
@@ -196,8 +196,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 3062.698511002991,
-        "y": 536.8112158404685
+        "x": 3007.2791787505303,
+        "y": 542.08924748356
       },
       "size": {
         "w": 212,
@@ -208,7 +208,7 @@
       "wrapWidth": null,
       "created": "2026-04-13T13:09:19.917Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-14T03:19:57.906Z",
+      "updatedAt": "2026-04-16T12:23:25.030Z",
       "updatedBy": "anon",
       "plain": "Lenses and Views\nAbsolutely a must for agents"
     },
@@ -223,13 +223,14 @@
         "31cad508-c5c7-49ec-a5c7-9172d5a4d95f",
         "257a4f2a-bba6-42c6-af6b-a17b562566df",
         "3e6ee530-2293-490f-b2b2-204943b9c03d",
-        "1f73952d-8b5b-4c13-a11c-e9a9e7e55c68"
+        "1f73952d-8b5b-4c13-a11c-e9a9e7e55c68",
+        "d6a70df1-bf9d-4500-9104-f203987d3ed3"
       ],
       "color": "blue",
       "autofitToContents": false,
       "position": {
-        "x": 2172.3771975962495,
-        "y": 476.6345229170812
+        "x": 2116.957865343789,
+        "y": 481.9125545601727
       },
       "size": {
         "w": 1172,
@@ -237,7 +238,7 @@
       },
       "created": "2026-04-13T13:10:05.442Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-14T03:20:00.930Z",
+      "updatedAt": "2026-04-16T12:23:25.030Z",
       "updatedBy": "anon"
     },
     {
@@ -350,8 +351,8 @@
       "kind": "bud",
       "type": "com.whitebloom.webpagebloom",
       "position": {
-        "x": 2272.650210179104,
-        "y": 654.738471040063
+        "x": 2217.230877926643,
+        "y": 660.0165026831545
       },
       "size": {
         "w": 88,
@@ -361,7 +362,7 @@
       "label": "Deepseek - streaming federated queries",
       "created": "2026-04-14T03:12:55.807Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-14T03:19:57.906Z",
+      "updatedAt": "2026-04-16T12:23:25.030Z",
       "updatedBy": "anon"
     },
     {
@@ -369,8 +370,8 @@
       "kind": "bud",
       "type": "com.whitebloom.webpagebloom",
       "position": {
-        "x": 2395.786039096802,
-        "y": 660.5201882939461
+        "x": 2315.2960565396565,
+        "y": 664.4787120262647
       },
       "size": {
         "w": 88,
@@ -380,7 +381,7 @@
       "label": "Grok - HomoQL",
       "created": "2026-04-14T03:13:36.923Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-14T03:20:36.722Z",
+      "updatedAt": "2026-04-16T12:23:28.231Z",
       "updatedBy": "anon"
     },
     {
@@ -388,8 +389,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 2450.0168647379833,
-        "y": 814.0814179120439
+        "x": 2394.5975324855226,
+        "y": 819.3594495551354
       },
       "size": {
         "w": 219,
@@ -400,9 +401,91 @@
       "wrapWidth": 219,
       "created": "2026-04-14T03:20:00.930Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-14T03:20:57.438Z",
+      "updatedAt": "2026-04-16T12:23:25.030Z",
       "updatedBy": "anon",
       "plain": "From a query we could get pictures and build a pureref board. Or, we could make our own pureref now that we know how it works more or less, with an open standard. OpenRef."
+    },
+    {
+      "id": "3ee8040e-c897-484c-90f8-be5513106703",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 2328.622136946877,
+        "y": 1211.253299054685
+      },
+      "size": {
+        "w": 373,
+        "h": 75
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"A scripts launcher with a shell and getting back the output, maybe to a .temp directory with a log? script_name_timestamp_output.log (plain text)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 373,
+      "created": "2026-04-16T12:20:53.653Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-16T12:21:29.442Z",
+      "updatedBy": "anon",
+      "plain": "A scripts launcher with a shell and getting back the output, maybe to a .temp directory with a log? script_name_timestamp_output.log (plain text)"
+    },
+    {
+      "id": "5feb0b93-aa6e-4c13-8781-1900491c02cf",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 2529.0215365936638,
+        "y": 1329.0403227166312
+      },
+      "size": {
+        "w": 444,
+        "h": 39
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"And a personal scripts platform launcher. With embedded shells.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-16T12:21:31.390Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-16T12:21:47.506Z",
+      "updatedBy": "anon",
+      "plain": "And a personal scripts platform launcher. With embedded shells."
+    },
+    {
+      "id": "c2af959c-0c97-46b2-bffe-71ef0b1e331f",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 2804.7986899451985,
+        "y": 1224.7991977655727
+      },
+      "size": {
+        "w": 504,
+        "h": 57
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"\\\"typed\\\" canvases that take some specific kinds of modules (like our entire pipeline scripts)\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 504,
+      "created": "2026-04-16T12:22:05.201Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-16T12:22:30.725Z",
+      "updatedBy": "anon",
+      "plain": "\"typed\" canvases that take some specific kinds of modules (like our entire pipeline scripts)"
+    },
+    {
+      "id": "d6a70df1-bf9d-4500-9104-f203987d3ed3",
+      "kind": "bud",
+      "type": "com.whitebloom.webpagebloom",
+      "position": {
+        "x": 2251.4054734663996,
+        "y": 780.0219849593695
+      },
+      "size": {
+        "w": 88,
+        "h": 88
+      },
+      "resource": "https://chatgpt.com/share/69e0d4ab-5b30-83e9-8504-92a64a3087bf",
+      "label": "GPT - query system",
+      "created": "2026-04-16T12:23:19.379Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-16T12:23:27.599Z",
+      "updatedBy": "anon"
     }
   ],
   "edges": [
@@ -432,8 +515,8 @@
     }
   ],
   "viewport": {
-    "x": -827.7655750566137,
-    "y": -183.95834580878,
-    "zoom": 0.7578582832551992
+    "x": -675.2462870326046,
+    "y": -164.6461224226208,
+    "zoom": 0.7578582832551993
   }
 }

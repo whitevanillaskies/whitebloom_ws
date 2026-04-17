@@ -24,54 +24,12 @@
       "plain": "Current TODOs\nThis is not the backlog, this is what we're working on right now. For the backlog and experimental features consult these two boards."
     },
     {
-      "id": "892371bd-05cf-415b-80f7-bf9fc12ef0b4",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": 281.35049707921314,
-        "y": 612.4432731164646
-      },
-      "size": {
-        "w": 340,
-        "h": 105
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Undo / Redo\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"We have support for a history stack, we just need to make all commands implement undo functionality.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "fixed",
-      "wrapWidth": 340,
-      "created": "2026-04-12T21:42:23.523Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-13T14:39:07.595Z",
-      "updatedBy": "anon",
-      "plain": "Undo / Redo\nWe have support for a history stack, we just need to make all commands implement undo functionality."
-    },
-    {
-      "id": "1d4246b1-410d-4450-b0ec-daaebc4939c8",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": 661.6705658527865,
-        "y": 654.3355485834326
-      },
-      "size": {
-        "w": 328,
-        "h": 105
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Ink erasing\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"We can erase strokes via undo, but we need both an eraser tool and a way to clear the whole layer (undoable)\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "fixed",
-      "wrapWidth": 328,
-      "created": "2026-04-12T21:42:28.162Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-13T14:39:07.595Z",
-      "updatedBy": "anon",
-      "plain": "Ink erasing\nWe can erase strokes via undo, but we need both an eraser tool and a way to clear the whole layer (undoable)"
-    },
-    {
       "id": "8b9b833c-2951-4dc2-9876-80d6013cf1bb",
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 1113.317514527607,
-        "y": 99.88503256562052
+        "x": 1097.4714232890421,
+        "y": 118.513854943567
       },
       "size": {
         "w": 84,
@@ -82,7 +40,7 @@
       "wrapWidth": null,
       "created": "2026-04-12T21:42:37.965Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:15:51.287Z",
+      "updatedAt": "2026-04-15T14:10:21.979Z",
       "updatedBy": "anon",
       "plain": "Bugs"
     },
@@ -92,37 +50,28 @@
       "type": null,
       "label": "Features",
       "children": [
-        "892371bd-05cf-415b-80f7-bf9fc12ef0b4",
-        "1d4246b1-410d-4450-b0ec-daaebc4939c8",
-        "79e0ed29-ce40-43e1-a096-5cdfd4c5ca3b",
-        "862b0bee-6eb8-41b2-8d30-883dc9f95085",
         "c3e7f2d4-5896-49b5-8b28-cc0e8a867e67",
         "adcb25bf-b16f-4c3a-9920-33c5032b065e",
-        "3b9c8f44-4530-4f6e-9ba8-aeadc16cc1e2",
-        "5bb1d616-a78f-4a88-8cd7-3754241f3205",
-        "635b6f8f-c3af-4431-a58e-f740f9379fc4",
-        "4e84d954-52d6-428b-8d2a-128fa1c5cb54",
-        "abdb2307-408e-4796-ab5a-cf9c020518aa",
-        "bc8efc00-823f-47e6-8fa7-cd0428a12c37",
-        "1e8a11c8-a324-492c-b83b-4976aa67fd5b",
         "0dc5fe4d-f73a-474d-9bb0-b95d0b8fff34",
         "f94d29c1-94de-4b5b-a403-b1210f9c39a8",
-        "03737984-87d9-45ba-a195-a409c4563824",
-        "919f32c6-b52b-4cf2-8f16-d2e8d6e984c3"
+        "79e0ed29-ce40-43e1-a096-5cdfd4c5ca3b",
+        "862b0bee-6eb8-41b2-8d30-883dc9f95085",
+        "d2cae3dd-8464-40e6-889c-d3b8ec88ee92",
+        "7485c3ca-df45-42f5-a041-145943d21a5e"
       ],
       "color": "blue",
       "autofitToContents": false,
       "position": {
-        "x": -431.05329189004556,
-        "y": 550.0049043597074
+        "x": -415.68752641480546,
+        "y": 556.8829422931959
       },
       "size": {
-        "w": 1464,
-        "h": 1103
+        "w": 1454,
+        "h": 903
       },
       "created": "2026-04-12T21:42:47.616Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T17:09:02.869Z",
+      "updatedAt": "2026-04-17T13:25:36.774Z",
       "updatedBy": "anon"
     },
     {
@@ -132,25 +81,22 @@
       "label": "Bugs",
       "children": [
         "8b9b833c-2951-4dc2-9876-80d6013cf1bb",
-        "cfc08ed6-aca9-410a-bc19-9a4cd2da99cd",
-        "58fa9a14-1146-44c9-8b9f-ea552a2773bb",
-        "162d25fe-0be3-4257-b3fa-585b74a01f75",
-        "ce86f9fd-51f9-4173-b46b-5488c1a02b7e",
-        "0a649c8c-8342-48a8-9e17-27191ea0ff18"
+        "ab998782-c2d2-4598-a8fa-8d16e8eafafc",
+        "5b4bb9ea-270f-46b5-9736-faa48f1ad1eb"
       ],
       "color": "blue",
       "autofitToContents": false,
       "position": {
-        "x": 1064.9841811942738,
-        "y": 52.38503256562052
+        "x": 1060.3893877742855,
+        "y": 61.57461940559678
       },
       "size": {
-        "w": 904,
-        "h": 472
+        "w": 362,
+        "h": 476
       },
       "created": "2026-04-12T21:42:56.809Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-14T21:27:41.203Z",
+      "updatedAt": "2026-04-17T16:14:15.804Z",
       "updatedBy": "anon"
     },
     {
@@ -158,42 +104,42 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 1275.4984237342305,
-        "y": 163.81070713908835
+        "x": 1472.2857164697775,
+        "y": 184.38139908514677
       },
       "size": {
         "w": 320,
-        "h": 57
+        "h": 76
       },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Sometimes after editing a node, the whole board gets selected.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"color: #2b2b2b;\",\"text\":\"Sometimes after editing a node, the whole board gets selected.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"color: #2b2b2b;\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Claude failed to fix it.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
       "widthMode": "fixed",
       "wrapWidth": 320,
       "created": "2026-04-12T21:43:07.053Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:15:51.287Z",
+      "updatedAt": "2026-04-17T16:14:31.013Z",
       "updatedBy": "anon",
-      "plain": "Sometimes after editing a node, the whole board gets selected."
+      "plain": "Sometimes after editing a node, the whole board gets selected.\nClaude failed to fix it."
     },
     {
       "id": "58fa9a14-1146-44c9-8b9f-ea552a2773bb",
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 1117.6091120002836,
-        "y": 285.193072480508
+        "x": 1155.0085372488952,
+        "y": 1535.885249718283
       },
       "size": {
         "w": 268,
-        "h": 148
+        "h": 258
       },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Some tools create their nodes at the center instead of activating the tool. For example, the shape tools should not create a node in the middle, they should behave like the text tool.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Same happens for example when linking a board from the palette.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"color: #6b7280;\",\"text\":\"Some tools create their nodes at the center instead of activating the tool. For example, the shape tools should not create a node in the middle, they should behave like the text tool.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"color: #6b7280;\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"color: #6b7280;\",\"text\":\"Same happens for example when linking a board from the palette.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"color: #6b7280;\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This is not a bug as much as us being in need for a refactor that lets palette commands enter a \\\"place on canvas\\\" mode with a payload (icon, label, etc.) for all commands, text, import, link, shape, etc.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
       "widthMode": "fixed",
       "wrapWidth": 268,
       "created": "2026-04-12T21:44:48.507Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:15:51.287Z",
+      "updatedAt": "2026-04-17T16:13:27.953Z",
       "updatedBy": "anon",
-      "plain": "Some tools create their nodes at the center instead of activating the tool. For example, the shape tools should not create a node in the middle, they should behave like the text tool.\nSame happens for example when linking a board from the palette."
+      "plain": "Some tools create their nodes at the center instead of activating the tool. For example, the shape tools should not create a node in the middle, they should behave like the text tool.\nSame happens for example when linking a board from the palette.\nThis is not a bug as much as us being in need for a refactor that lets palette commands enter a \"place on canvas\" mode with a payload (icon, label, etc.) for all commands, text, import, link, shape, etc."
     },
     {
       "id": "6e225e7d-79de-4422-a97d-2c630a6076a2",
@@ -223,21 +169,11 @@
       "label": "Cosmetic Issues",
       "children": [
         "6e225e7d-79de-4422-a97d-2c630a6076a2",
-        "aac72e58-3d3d-4d84-a034-9a3a2eb7a126",
-        "91140fe2-02dc-4bcc-a614-5568ad6a0e90",
-        "f69c107b-1dca-4714-b8fb-3a15c1dfe8fd",
         "9abcce82-cd6e-4c23-a6e8-040944f22085",
         "8e6db0ff-a8b7-4930-9de0-918c223a87e7",
-        "3db3b4c4-db00-4b04-93ae-70f704cb6f70",
-        "30c2b287-90ba-495d-8b72-b6740282d0ee",
-        "8267941e-6801-408a-a665-e16d0d5c4f85",
-        "8419d12e-e7c5-4c41-a2e6-dee0db6b3e40",
         "f55c3ac6-faaf-4583-8e49-47976b717b5d",
-        "0f55e001-e4c3-458e-9302-7c13fdc2ab1e",
-        "d2cae3dd-8464-40e6-889c-d3b8ec88ee92",
-        "7bf304b3-99bc-43c7-9d86-ea7539ff86ca",
-        "adaca117-271d-47f4-b106-64277b2d7c38",
-        "253d0527-6bef-43da-b19b-6939f8e83d69"
+        "253d0527-6bef-43da-b19b-6939f8e83d69",
+        "30c2b287-90ba-495d-8b72-b6740282d0ee"
       ],
       "color": "blue",
       "autofitToContents": false,
@@ -246,42 +182,21 @@
         "y": 552.594366953294
       },
       "size": {
-        "w": 1863,
-        "h": 855
+        "w": 1282,
+        "h": 821
       },
       "created": "2026-04-12T21:47:43.873Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T17:07:58.849Z",
+      "updatedAt": "2026-04-17T16:14:33.101Z",
       "updatedBy": "anon"
-    },
-    {
-      "id": "aac72e58-3d3d-4d84-a034-9a3a2eb7a126",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": 1148.3969498697818,
-        "y": 735.4113348374226
-      },
-      "size": {
-        "w": 335,
-        "h": 75
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The PDF Viewer screen looks horrible, especially the toolbar. We may want to define a toolbar component to reuse across the app.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "fixed",
-      "wrapWidth": 335,
-      "created": "2026-04-12T21:47:57.035Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-12T22:01:02.983Z",
-      "updatedBy": "anon",
-      "plain": "The PDF Viewer screen looks horrible, especially the toolbar. We may want to define a toolbar component to reuse across the app."
     },
     {
       "id": "79e0ed29-ce40-43e1-a096-5cdfd4c5ca3b",
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 207.31305071739664,
-        "y": 771.4038349188381
+        "x": -31.858442390160263,
+        "y": 943.5505021437252
       },
       "size": {
         "w": 457,
@@ -292,7 +207,7 @@
       "wrapWidth": 457,
       "created": "2026-04-12T21:48:30.612Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T14:39:41.360Z",
+      "updatedAt": "2026-04-17T13:25:36.774Z",
       "updatedBy": "anon",
       "plain": "Ink Colors and Eraser\nWe need a contextual toolbar for the tool itself. The ink tool should activate that toolbar, both in the canvas and in the PDF Viewer.\nOptions: stroke width and color, optionally pressure sensitivity."
     },
@@ -301,8 +216,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 731.1293454886421,
-        "y": 813.6086743311673
+        "x": 645.7184143436591,
+        "y": 983.6841505687921
       },
       "size": {
         "w": 125,
@@ -313,7 +228,7 @@
       "wrapWidth": null,
       "created": "2026-04-12T21:51:40.152Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T14:39:07.595Z",
+      "updatedAt": "2026-04-17T13:25:36.774Z",
       "updatedBy": "anon",
       "plain": "Copypaste"
     },
@@ -360,8 +275,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": -12.585278416126428,
-        "y": 978.792858818076
+        "x": -341.06190259425944,
+        "y": 1202.7536802210316
       },
       "size": {
         "w": 378,
@@ -372,7 +287,7 @@
       "wrapWidth": 378,
       "created": "2026-04-12T21:55:13.309Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T14:39:08.381Z",
+      "updatedAt": "2026-04-17T13:25:36.774Z",
       "updatedBy": "anon",
       "plain": "Exporting\nDifferent ways of exporting our work.\nExporting Annotated PDFs\nBaking the annotations into the PDFs, possibly creating a copy or telling the user this will override their PDFs\nExporting the canvas\nAs a picture, most likely."
     },
@@ -381,8 +296,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 681.2902296788892,
-        "y": 1064.1043839525955
+        "x": 489.536152076914,
+        "y": 1168.3489587722913
       },
       "size": {
         "w": 322,
@@ -393,59 +308,17 @@
       "wrapWidth": 322,
       "created": "2026-04-12T21:56:02.689Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T14:39:07.595Z",
+      "updatedAt": "2026-04-17T13:29:18.408Z",
       "updatedBy": "anon",
       "plain": "PDF page extraction\nA command that extracts pages from a PDF, like Microsoft Whiteboard. Should automatically group them in a Set so they're easy to find by the user."
-    },
-    {
-      "id": "91140fe2-02dc-4bcc-a614-5568ad6a0e90",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": 1143.9330513327754,
-        "y": 884.9118452045491
-      },
-      "size": {
-        "w": 347,
-        "h": 75
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The thumbnail generation work but is too lazy, maybe on clicking the save button it should also take a capture?\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "fixed",
-      "wrapWidth": 347,
-      "created": "2026-04-12T21:56:57.340Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-13T00:05:59.804Z",
-      "updatedBy": "anon",
-      "plain": "The thumbnail generation work but is too lazy, maybe on clicking the save button it should also take a capture?"
-    },
-    {
-      "id": "f69c107b-1dca-4714-b8fb-3a15c1dfe8fd",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": 1643.6457940574194,
-        "y": 668.1599453880971
-      },
-      "size": {
-        "w": 265,
-        "h": 111
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"It doesn't feel right how by default MicaWindow will show up so close to the top left corner. Should be more centered, or even look for empty space.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "fixed",
-      "wrapWidth": 265,
-      "created": "2026-04-12T21:57:38.696Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-13T17:08:17.912Z",
-      "updatedBy": "anon",
-      "plain": "It doesn't feel right how by default MicaWindow will show up so close to the top left corner. Should be more centered, or even look for empty space."
     },
     {
       "id": "9abcce82-cd6e-4c23-a6e8-040944f22085",
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 1877.2994689744594,
-        "y": 946.415490893469
+        "x": 1162.7138204394123,
+        "y": 978.2346795879578
       },
       "size": {
         "w": 237,
@@ -456,7 +329,7 @@
       "wrapWidth": 237,
       "created": "2026-04-12T21:58:26.539Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T00:05:57.281Z",
+      "updatedAt": "2026-04-17T16:12:33.835Z",
       "updatedBy": "anon",
       "plain": "I think it would be nice if we could resize clusters by dragging on edges, not just corners. Like text."
     },
@@ -465,8 +338,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 1604.9854386485401,
-        "y": 834.4946627819454
+        "x": 1851.5000256670417,
+        "y": 694.52699989833
       },
       "size": {
         "w": 186,
@@ -477,38 +350,17 @@
       "wrapWidth": 186,
       "created": "2026-04-12T21:58:47.168Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T00:05:58.084Z",
+      "updatedAt": "2026-04-17T13:37:29.255Z",
       "updatedBy": "anon",
       "plain": "MicaWindow isn't remembering the last opened opsition."
-    },
-    {
-      "id": "3db3b4c4-db00-4b04-93ae-70f704cb6f70",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": 2011.5520670224012,
-        "y": 693.3586363281204
-      },
-      "size": {
-        "w": 187,
-        "h": 165
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"The canvas isn't remembering the ink overlay toggle, so every time you open a whiteboard you get to see the ink overlay even if you disabled it last time.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "fixed",
-      "wrapWidth": 187,
-      "created": "2026-04-12T21:58:59.033Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-13T17:08:17.337Z",
-      "updatedBy": "anon",
-      "plain": "The canvas isn't remembering the ink overlay toggle, so every time you open a whiteboard you get to see the ink overlay even if you disabled it last time."
     },
     {
       "id": "30c2b287-90ba-495d-8b72-b6740282d0ee",
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 1504.2565887263588,
-        "y": 951.8103567370464
+        "x": 1179.4814671814117,
+        "y": 817.5964968138211
       },
       "size": {
         "w": 323,
@@ -519,80 +371,17 @@
       "wrapWidth": 323,
       "created": "2026-04-12T21:59:50.761Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:15:35.366Z",
+      "updatedAt": "2026-04-16T14:27:05.748Z",
       "updatedBy": "anon",
       "plain": "Maybe the image virtualization is too aggressive, we could try preloading them offscreen so they don't pop into view as often when panning the canvas."
-    },
-    {
-      "id": "8267941e-6801-408a-a665-e16d0d5c4f85",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": 1168.349756776307,
-        "y": 1030.2521433196823
-      },
-      "size": {
-        "w": 286,
-        "h": 111
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"When you create a new child set on the Materials view, and the parent set is collapsed, the window will set the child set as editable but it won't expand the parent which looks really bad.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "fixed",
-      "wrapWidth": 286,
-      "created": "2026-04-13T00:05:16.095Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-13T00:05:58.999Z",
-      "updatedBy": "anon",
-      "plain": "When you create a new child set on the Materials view, and the parent set is collapsed, the window will set the child set as editable but it won't expand the parent which looks really bad."
-    },
-    {
-      "id": "8419d12e-e7c5-4c41-a2e6-dee0db6b3e40",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": 1717.400776968781,
-        "y": 1100.4703142074115
-      },
-      "size": {
-        "w": 397,
-        "h": 75
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Toolbars like for text, edges, etc. need to be improved, right now it's hard to tell if on an edge for example you're setting the edge or label color, etc.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "fixed",
-      "wrapWidth": 397,
-      "created": "2026-04-13T02:57:47.709Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:26:49.179Z",
-      "updatedBy": "anon",
-      "plain": "Toolbars like for text, edges, etc. need to be improved, right now it's hard to tell if on an edge for example you're setting the edge or label color, etc."
-    },
-    {
-      "id": "162d25fe-0be3-4257-b3fa-585b74a01f75",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": 1459.4384098868668,
-        "y": 330.7052089874648
-      },
-      "size": {
-        "w": 186,
-        "h": 111
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"When the hand tool is on, LMB (M1) will drag clusters, this is wrong, it should always simply plan the canvas\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "fixed",
-      "wrapWidth": 186,
-      "created": "2026-04-13T13:10:31.356Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-13T14:18:41.989Z",
-      "updatedBy": "anon",
-      "plain": "When the hand tool is on, LMB (M1) will drag clusters, this is wrong, it should always simply plan the canvas"
     },
     {
       "id": "f55c3ac6-faaf-4583-8e49-47976b717b5d",
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 1365.1056152962497,
-        "y": 650.5633687610809
+        "x": 1503.1056152962494,
+        "y": 730.5633687610809
       },
       "size": {
         "w": 218,
@@ -603,7 +392,7 @@
       "wrapWidth": null,
       "created": "2026-04-13T13:11:13.191Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T17:08:18.703Z",
+      "updatedAt": "2026-04-17T13:37:30.171Z",
       "updatedBy": "anon",
       "plain": "Some tools missing shortcuts"
     },
@@ -612,29 +401,29 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 2304.242756320646,
-        "y": 689.5075296873166
+        "x": 2437.781597713657,
+        "y": 275.01614063390275
       },
       "size": {
         "w": 413,
         "h": 188
       },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Shortcuts aren't exactly working right in the meta finder, I think. The search feature looks good, but what we need is a strict match.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"If we have \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Arr \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"and \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"rr\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\" then if the user types \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"\",\"text\":\"rr \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"because that's an strict match it should only select that one.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Also all shortcuts should be lowercased and case insensitive during search.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"color: #6b7280;\",\"text\":\"Shortcuts aren't exactly working right in the meta palette. The search feature looks good, but what we need is a strict match.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"color: #6b7280;\"},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textStyle\":\"color: #6b7280;\",\"textFormat\":0},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"color: #6b7280;\",\"text\":\"If we have \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"color: #6b7280;\",\"text\":\"Arr \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"color: #6b7280;\",\"text\":\"and \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"color: #6b7280;\",\"text\":\"rr\",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"color: #6b7280;\",\"text\":\" then if the user types \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":1,\"mode\":\"normal\",\"style\":\"color: #6b7280;\",\"text\":\"rr \",\"type\":\"text\",\"version\":1},{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"color: #6b7280;\",\"text\":\"because that's an strict match it should only select that one.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"color: #6b7280;\"},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textStyle\":\"color: #6b7280;\",\"textFormat\":0},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"color: #6b7280;\",\"text\":\"Also all shortcuts should be lowercased and case insensitive during search.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"color: #6b7280;\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
       "widthMode": "fixed",
       "wrapWidth": 413,
       "created": "2026-04-13T13:12:05.531Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T17:08:16.784Z",
+      "updatedAt": "2026-04-16T14:27:14.745Z",
       "updatedBy": "anon",
-      "plain": "Shortcuts aren't exactly working right in the meta finder, I think. The search feature looks good, but what we need is a strict match.\nIf we have Arr and rr then if the user types rr because that's an strict match it should only select that one.\nAlso all shortcuts should be lowercased and case insensitive during search."
+      "plain": "Shortcuts aren't exactly working right in the meta palette. The search feature looks good, but what we need is a strict match.\nIf we have Arr and rr then if the user types rr because that's an strict match it should only select that one.\nAlso all shortcuts should be lowercased and case insensitive during search."
     },
     {
       "id": "d2cae3dd-8464-40e6-889c-d3b8ec88ee92",
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 2164.671566926092,
-        "y": 951.0908021532886
+        "x": -34.78994791662583,
+        "y": 1046.5684824797577
       },
       "size": {
         "w": 261,
@@ -645,98 +434,17 @@
       "wrapWidth": 261,
       "created": "2026-04-13T13:13:53.366Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:27:05.831Z",
+      "updatedAt": "2026-04-17T13:25:36.774Z",
       "updatedBy": "anon",
       "plain": "An inconsistency: if you select shapes from the canvas toolbar you get a menu, if you select ink you get a toolbar. Give shapes a toolbar too."
-    },
-    {
-      "id": "ce86f9fd-51f9-4173-b46b-5488c1a02b7e",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": 1683.8604016934082,
-        "y": 193.6198884213864
-      },
-      "size": {
-        "w": 211,
-        "h": 111
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Eraser undo/redo is bugged on the history stack. If you just draw it's working, but mixing drawing and erasing messes it up.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "fixed",
-      "wrapWidth": 211,
-      "created": "2026-04-13T13:14:30.535Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-13T14:18:41.171Z",
-      "updatedBy": "anon",
-      "plain": "Eraser undo/redo is bugged on the history stack. If you just draw it's working, but mixing drawing and erasing messes it up."
-    },
-    {
-      "id": "7bf304b3-99bc-43c7-9d86-ea7539ff86ca",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": 2185.2472970909434,
-        "y": 1150.0193246279678
-      },
-      "size": {
-        "w": 250,
-        "h": 93
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"I think you should be allowed to pan and zoom the canvas when editing text without going out of text editing mode.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "fixed",
-      "wrapWidth": 250,
-      "created": "2026-04-13T13:20:20.299Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:27:05.252Z",
-      "updatedBy": "anon",
-      "plain": "I think you should be allowed to pan and zoom the canvas when editing text without going out of text editing mode."
-    },
-    {
-      "id": "3b9c8f44-4530-4f6e-9ba8-aeadc16cc1e2",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": 177.59155841488885,
-        "y": 1188.7443063521257
-      },
-      "size": {
-        "w": 362,
-        "h": 105
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Toolbar Component\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"A toolbar we can use for exampel in the PDF viewer and in other editors like that, inspired by the Apple toolbars.\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "fixed",
-      "wrapWidth": 362,
-      "created": "2026-04-13T13:21:52.124Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-13T14:39:07.595Z",
-      "updatedBy": "anon",
-      "plain": "Toolbar Component\nA toolbar we can use for exampel in the PDF viewer and in other editors like that, inspired by the Apple toolbars."
-    },
-    {
-      "id": "5bb1d616-a78f-4a88-8cd7-3754241f3205",
-      "kind": "bud",
-      "type": "com.whitebloom.image",
-      "position": {
-        "x": 192.32624098769824,
-        "y": 1297.787459998477
-      },
-      "size": {
-        "w": 768,
-        "h": 51
-      },
-      "resource": "wloc:res/pages_toolbar.jpg",
-      "created": "2026-04-13T13:25:36.705Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-13T14:39:07.595Z",
-      "updatedBy": "anon"
     },
     {
       "id": "adaca117-271d-47f4-b106-64277b2d7c38",
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 1364.1609888939824,
-        "y": 1185.8223377125657
+        "x": 1470.9503930238589,
+        "y": 1693.3502591860708
       },
       "size": {
         "w": 289,
@@ -747,122 +455,17 @@
       "wrapWidth": 289,
       "created": "2026-04-13T13:26:20.055Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T13:26:45.878Z",
+      "updatedAt": "2026-04-17T16:13:29.682Z",
       "updatedBy": "anon",
       "plain": "Possibly being able to tab to complete commands from inside the palette in meta mode, without closing the palette. Esc always closes."
-    },
-    {
-      "id": "635b6f8f-c3af-4431-a58e-f740f9379fc4",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": 539.713632033322,
-        "y": 1208.6878650125582
-      },
-      "size": {
-        "w": 320,
-        "h": 75
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"color: #6b7280;\",\"text\":\"Something where the buttons look engraved on glass, with indicators instead of highlighted frames\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"color: #6b7280;\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "fixed",
-      "wrapWidth": 320,
-      "created": "2026-04-13T14:05:03.533Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-13T14:39:07.595Z",
-      "updatedBy": "anon",
-      "plain": "Something where the buttons look engraved on glass, with indicators instead of highlighted frames"
-    },
-    {
-      "id": "4e84d954-52d6-428b-8d2a-128fa1c5cb54",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": 779.2905832108984,
-        "y": 884.0364415648156
-      },
-      "size": {
-        "w": 168,
-        "h": 69
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Text Controls\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Align left, center, right\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "auto",
-      "wrapWidth": null,
-      "created": "2026-04-13T14:17:28.985Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-13T14:39:07.595Z",
-      "updatedBy": "anon",
-      "plain": "Text Controls\nAlign left, center, right"
-    },
-    {
-      "id": "abdb2307-408e-4796-ab5a-cf9c020518aa",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": 564.2107937549168,
-        "y": 922.3021709772293
-      },
-      "size": {
-        "w": 250,
-        "h": 123
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Window Names\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"To find the right instance of the app when running multiple windows. Name of workspace and board\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "fixed",
-      "wrapWidth": 250,
-      "created": "2026-04-13T14:18:00.829Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-13T14:39:07.595Z",
-      "updatedBy": "anon",
-      "plain": "Window Names\nTo find the right instance of the app when running multiple windows. Name of workspace and board"
-    },
-    {
-      "id": "bc8efc00-823f-47e6-8fa7-cd0428a12c37",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": -63.849620438303006,
-        "y": 741.3459382820536
-      },
-      "size": {
-        "w": 259,
-        "h": 39
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Being able to link clusters like nodes\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "auto",
-      "wrapWidth": null,
-      "created": "2026-04-13T14:26:08.253Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-13T14:39:39.138Z",
-      "updatedBy": "anon",
-      "plain": "Being able to link clusters like nodes"
-    },
-    {
-      "id": "1e8a11c8-a324-492c-b83b-4976aa67fd5b",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": -57.941915636495935,
-        "y": 863.1815821478638
-      },
-      "size": {
-        "w": 262,
-        "h": 87
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Edge editing\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Being able to drag the endpoints of already drawn edges\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "fixed",
-      "wrapWidth": 262,
-      "created": "2026-04-13T14:38:13.656Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-13T14:39:40.001Z",
-      "updatedBy": "anon",
-      "plain": "Edge editing\nBeing able to drag the endpoints of already drawn edges"
     },
     {
       "id": "0dc5fe4d-f73a-474d-9bb0-b95d0b8fff34",
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 294.4814922398099,
-        "y": 898.092104169501
+        "x": -306.7825786200666,
+        "y": 743.181620291259
       },
       "size": {
         "w": 200,
@@ -873,7 +476,7 @@
       "wrapWidth": 200,
       "created": "2026-04-13T14:38:45.348Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T14:39:07.595Z",
+      "updatedAt": "2026-04-17T13:25:36.774Z",
       "updatedBy": "anon",
       "plain": "Connecting nodes to nodes (not handles) and letting the edge pick the best cardinal handle based on positioning."
     },
@@ -882,8 +485,8 @@
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 34.87566401048035,
-        "y": 610.9175154202426
+        "x": 478.49954355821035,
+        "y": 744.3932207522706
       },
       "size": {
         "w": 240,
@@ -894,38 +497,17 @@
       "wrapWidth": 240,
       "created": "2026-04-13T14:39:10.059Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T14:39:38.138Z",
+      "updatedAt": "2026-04-17T16:15:16.582Z",
       "updatedBy": "anon",
       "plain": "Locking boards, nodes, and clusters. Locking a cluster wouldn't mean you can't edit its contents I think, or maybe soft lock and hard lock"
-    },
-    {
-      "id": "03737984-87d9-45ba-a195-a409c4563824",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": -221.98480562285957,
-        "y": 1276.8782035622867
-      },
-      "size": {
-        "w": 306,
-        "h": 75
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"A mode like alt click drag so that we can select nodes inside a cluster without moving the cluster.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "fixed",
-      "wrapWidth": 306,
-      "created": "2026-04-13T14:43:52.455Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-13T14:44:09.024Z",
-      "updatedBy": "anon",
-      "plain": "A mode like alt click drag so that we can select nodes inside a cluster without moving the cluster."
     },
     {
       "id": "253d0527-6bef-43da-b19b-6939f8e83d69",
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 2499.1031981936712,
-        "y": 982.9330987513436
+        "x": 1420.0184211109633,
+        "y": 958.7999174946565
       },
       "size": {
         "w": 355,
@@ -936,57 +518,323 @@
       "wrapWidth": 355,
       "created": "2026-04-13T17:07:29.592Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-13T17:11:31.902Z",
+      "updatedAt": "2026-04-17T16:12:35.000Z",
       "updatedBy": "anon",
       "plain": "While the node handles are hidden, you can still drag from them. This is either good or bad, but if we're going to lean on this approach we better make it work better.\nI do kind of like using it now that I realized it works"
-    },
-    {
-      "id": "919f32c6-b52b-4cf2-8f16-d2e8d6e984c3",
-      "kind": "leaf",
-      "type": "text",
-      "position": {
-        "x": 550.4272642641602,
-        "y": 1347.9491160659425
-      },
-      "size": {
-        "w": 285,
-        "h": 39
-      },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"color: #6b7280;\",\"text\":\"Equal dynamic spacers between groups\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"color: #6b7280;\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
-      "widthMode": "auto",
-      "wrapWidth": null,
-      "created": "2026-04-13T17:09:02.869Z",
-      "createdBy": "anon",
-      "updatedAt": "2026-04-13T17:09:15.371Z",
-      "updatedBy": "anon",
-      "plain": "Equal dynamic spacers between groups"
     },
     {
       "id": "0a649c8c-8342-48a8-9e17-27191ea0ff18",
       "kind": "leaf",
       "type": "text",
       "position": {
-        "x": 1700.6725669652105,
-        "y": 353.5538447712885
+        "x": 2438.0961879364245,
+        "y": 609.3606924657369
       },
       "size": {
         "w": 214,
-        "h": 111
+        "h": 222
       },
-      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Snuggify text makes it long along one line. We need to only snuggify toward compression. Snuggify can't expand.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Snuggify text makes it long along one line. We need to only snuggify toward compression. Snuggify can't expand.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"I'm not entirely sure snuggifying on a wrapped node makes any sense though.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"It would be nice to have but it feels really tricky.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
       "widthMode": "fixed",
       "wrapWidth": 214,
       "created": "2026-04-14T21:27:41.203Z",
       "createdBy": "anon",
-      "updatedAt": "2026-04-14T21:28:15.988Z",
+      "updatedAt": "2026-04-16T14:27:14.745Z",
       "updatedBy": "anon",
-      "plain": "Snuggify text makes it long along one line. We need to only snuggify toward compression. Snuggify can't expand."
+      "plain": "Snuggify text makes it long along one line. We need to only snuggify toward compression. Snuggify can't expand.\nI'm not entirely sure snuggifying on a wrapped node makes any sense though.\nIt would be nice to have but it feels really tricky."
+    },
+    {
+      "id": "4fc017d3-2bc5-4be1-a77d-35951e2cb4fe",
+      "kind": "cluster",
+      "type": null,
+      "label": "Luxuries",
+      "children": [
+        "0a649c8c-8342-48a8-9e17-27191ea0ff18"
+      ],
+      "color": "blue",
+      "autofitToContents": false,
+      "position": {
+        "x": 2377.7349450039364,
+        "y": 548.9871915206816
+      },
+      "size": {
+        "w": 335,
+        "h": 338
+      },
+      "created": "2026-04-15T13:57:17.297Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-16T14:27:14.745Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "46e7d1ae-f380-4693-8b20-c5be3dd2031d",
+      "kind": "cluster",
+      "type": null,
+      "label": "Possibly Fixed",
+      "children": [
+        "0f55e001-e4c3-458e-9302-7c13fdc2ab1e"
+      ],
+      "color": "blue",
+      "autofitToContents": false,
+      "position": {
+        "x": 2384.549239949513,
+        "y": 146.57568908951134
+      },
+      "size": {
+        "w": 756,
+        "h": 367
+      },
+      "created": "2026-04-15T14:04:19.357Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-16T14:27:14.745Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "4e90aa25-c34a-4a0b-ab57-fd14bbcd12de",
+      "kind": "cluster",
+      "type": null,
+      "label": "working on",
+      "color": "blue",
+      "autofitToContents": false,
+      "children": [
+        "58fa9a14-1146-44c9-8b9f-ea552a2773bb",
+        "39903bb9-28c4-4436-b8a7-de3cce015716",
+        "adaca117-271d-47f4-b106-64277b2d7c38",
+        "81a956ac-cc1f-4677-a4c4-6932c7adae55",
+        "6f97556e-b69d-43b1-99c2-aa129a117cd7"
+      ],
+      "position": {
+        "x": 1075.986291273055,
+        "y": 1434.2811947224725
+      },
+      "size": {
+        "w": 1060,
+        "h": 488
+      },
+      "created": "2026-04-16T13:10:08.518Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-17T16:13:34.638Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "4a5748b8-cc20-4175-b7c8-dd21cfed9f85",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1767.1969983054328,
+        "y": 255.71440061839655
+      },
+      "size": {
+        "w": 161,
+        "h": 75
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"bug when editing something and alt tabbing I think\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 161,
+      "created": "2026-04-16T13:14:30.718Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-17T16:14:40.144Z",
+      "updatedBy": "anon",
+      "plain": "bug when editing something and alt tabbing I think"
+    },
+    {
+      "id": "5c314309-a88e-41e0-b1c1-7afa1f369682",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1492.5728475885924,
+        "y": 109.52515187074923
+      },
+      "size": {
+        "w": 356,
+        "h": 39
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Sometimes you click and it doesn't select the node\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-16T13:22:49.111Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-17T16:14:28.495Z",
+      "updatedBy": "anon",
+      "plain": "Sometimes you click and it doesn't select the node"
+    },
+    {
+      "id": "9909ff39-ba5c-4fd3-898e-4dec52272854",
+      "kind": "cluster",
+      "type": null,
+      "label": "Heisenbugs",
+      "children": [
+        "5c314309-a88e-41e0-b1c1-7afa1f369682",
+        "cfc08ed6-aca9-410a-bc19-9a4cd2da99cd",
+        "4a5748b8-cc20-4175-b7c8-dd21cfed9f85"
+      ],
+      "color": "blue",
+      "autofitToContents": false,
+      "position": {
+        "x": 1445,
+        "y": 61.99999999999994
+      },
+      "size": {
+        "w": 519,
+        "h": 302
+      },
+      "created": "2026-04-16T13:23:00.802Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-17T16:14:29.303Z",
+      "updatedBy": "anon"
+    },
+    {
+      "id": "81a956ac-cc1f-4677-a4c4-6932c7adae55",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1815.3347336944585,
+        "y": 1698.8371975707623
+      },
+      "size": {
+        "w": 257,
+        "h": 75
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Some commands show up twice in the palette. For example, text appears as Add Text and just Text\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 257,
+      "created": "2026-04-16T13:30:06.281Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-17T16:13:45.721Z",
+      "updatedBy": "anon",
+      "plain": "Some commands show up twice in the palette. For example, text appears as Add Text and just Text"
+    },
+    {
+      "id": "9f21baa9-a715-4bda-a3d9-41b4e296bf9a",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 770.918229530688,
+        "y": 227.16839602050428
+      },
+      "size": {
+        "w": 202,
+        "h": 49
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"0.2.0 version target\",\"type\":\"text\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"heading\",\"version\":1,\"tag\":\"h2\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-16T14:08:00.806Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-16T14:08:12.107Z",
+      "updatedBy": "anon",
+      "plain": "0.2.0 version target"
+    },
+    {
+      "id": "ab998782-c2d2-4598-a8fa-8d16e8eafafc",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1196.5550139831123,
+        "y": 193.11813009313747
+      },
+      "size": {
+        "w": 181,
+        "h": 93
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"apparently external resources aren't getting captured in the screencap\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 181,
+      "created": "2026-04-16T15:48:16.722Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-17T13:33:09.651Z",
+      "updatedBy": "anon",
+      "plain": "apparently external resources aren't getting captured in the screencap"
+    },
+    {
+      "id": "7485c3ca-df45-42f5-a041-145943d21a5e",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 217.95761442797624,
+        "y": 1052.0112487112801
+      },
+      "size": {
+        "w": 185,
+        "h": 39
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Generic tool with modes\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-17T13:13:37.525Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-17T13:25:36.774Z",
+      "updatedBy": "anon",
+      "plain": "Generic tool with modes"
+    },
+    {
+      "id": "5b4bb9ea-270f-46b5-9736-faa48f1ad1eb",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1089.6571157538049,
+        "y": 304.75154405762845
+      },
+      "size": {
+        "w": 203,
+        "h": 93
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Text being selected when dragging edges around to reconnect. Claude causing regressions trying to fix it.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 203,
+      "created": "2026-04-17T13:32:43.893Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-17T13:33:09.125Z",
+      "updatedBy": "anon",
+      "plain": "Text being selected when dragging edges around to reconnect. Claude causing regressions trying to fix it."
+    },
+    {
+      "id": "39903bb9-28c4-4436-b8a7-de3cce015716",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1467.392715978506,
+        "y": 1539.0575218653842
+      },
+      "size": {
+        "w": 294,
+        "h": 93
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Some commands should actually activate tools instead. Then we can provide commands to programmatically do it later.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 294,
+      "created": "2026-04-17T16:11:33.213Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-17T16:13:30.076Z",
+      "updatedBy": "anon",
+      "plain": "Some commands should actually activate tools instead. Then we can provide commands to programmatically do it later."
+    },
+    {
+      "id": "6f97556e-b69d-43b1-99c2-aa129a117cd7",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 1860.0623123333228,
+        "y": 1519.4599823115202
+      },
+      "size": {
+        "w": 160,
+        "h": 93
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"We need to add categories to commands like Spotlight.\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "fixed",
+      "wrapWidth": 160,
+      "created": "2026-04-17T16:12:38.724Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-17T16:13:44.886Z",
+      "updatedBy": "anon",
+      "plain": "We need to add categories to commands like Spotlight."
     }
   ],
   "edges": [],
   "viewport": {
-    "x": -88.03371029509503,
-    "y": 190.86693118827503,
-    "zoom": 0.6597539553864472
+    "x": 382.03371764769025,
+    "y": -335.2247905932155,
+    "zoom": 0.7578582832552
   }
 }

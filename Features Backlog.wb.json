@@ -379,6 +379,27 @@
       "updatedAt": "2026-04-14T17:31:39.592Z",
       "updatedBy": "anon",
       "plain": "right click action to locate a resource from the whiteboard in the materials window"
+    },
+    {
+      "id": "f183d8a6-4041-4f29-a57f-d75a19b564db",
+      "kind": "leaf",
+      "type": "text",
+      "position": {
+        "x": 992.4810519676276,
+        "y": 1211.4192520201298
+      },
+      "size": {
+        "w": 325,
+        "h": 39
+      },
+      "content": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"possibly a search function in the home screen\",\"type\":\"text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1,\"textFormat\":0,\"textStyle\":\"\"}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+      "widthMode": "auto",
+      "wrapWidth": null,
+      "created": "2026-04-16T12:20:40.836Z",
+      "createdBy": "anon",
+      "updatedAt": "2026-04-16T12:20:47.936Z",
+      "updatedBy": "anon",
+      "plain": "possibly a search function in the home screen"
     }
   ],
   "edges": [],
